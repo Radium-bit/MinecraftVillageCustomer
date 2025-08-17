@@ -10,7 +10,7 @@ class VillagerTradeGenerator:
     def __init__(self, root):
         self.root = root
         self.root.title("Minecraft村民交易指令生成器 v0.1 by.Radiumbit")
-        self.root.geometry("900x800")
+        self.root.geometry("900x900")
         
         # 存储交易项的列表：每个元素为字典{buy_id, buy_count, sell_id, sell_count, max_uses, trade_type}
         self.trades = []
