@@ -714,7 +714,7 @@ class VillagerTradeGenerator:
         self._fill_cmd_to_tab(self.tab_definitions[3][0], cmd_step3)
         self._fill_cmd_to_tab(self.tab_definitions[4][0], cmd_step4)
         
-        messagebox.showinfo("成功", "所有指令已生成！默认展示交易修改选项卡，可切换复制其他指令。")
+        messagebox.showinfo("成功", "所有指令已生成！默认展示交易修改选项卡。\n如果是第一次创建，请按选项卡顺序执行命令")
 
     def _fill_cmd_to_tab(self, tab_name, command):
         text_widget = self.command_tabs.get(tab_name)
