@@ -18,7 +18,7 @@ class MainWindow:
         
         # 初始化主窗口
         self.root = root
-        self.root.title("Minecraft村民交易指令生成器 v0.3 by.Radiumbit")
+        self.root.title("Minecraft村民交易指令生成器 v0.3A by.Radiumbit")
         self.root.geometry("1000x900")
         
         # 存储UI状态
@@ -122,23 +122,35 @@ class MainWindow:
         self.buy_count = ttk.Entry(self.trade_edit_frame, width=10)
         self.buy_count.grid(row=2, column=6, padx=5, pady=5)
         self.buy_count.insert(0, "1")
+
+        # Buy2方物品
+        ttk.Label(self.trade_edit_frame, text="Buy2方物品ID:").grid(row=3, column=0, padx=5, pady=5, sticky=tk.W)
+        ttk.Label(self.trade_edit_frame, text="(第二购买项，默认空气)").grid(row=3, column=4, padx=5, pady=5, sticky=tk.W)
+        self.buy2_id = ttk.Entry(self.trade_edit_frame, width=50)
+        self.buy2_id.grid(row=3, column=1, padx=5, pady=5, columnspan=3)
+        self.buy2_id.insert(0, "minecraft:air")  # 默认air
+
+        ttk.Label(self.trade_edit_frame, text="数量:").grid(row=3, column=5, padx=5, pady=5, sticky=tk.W)
+        self.buy2_count = ttk.Entry(self.trade_edit_frame, width=10)
+        self.buy2_count.grid(row=3, column=6, padx=5, pady=5)
+        self.buy2_count.insert(0, "1")  # 默认数量1
         
         # Sell方物品（支持NBT标签）
-        ttk.Label(self.trade_edit_frame, text="Sell方物品ID:").grid(row=3, column=0, padx=5, pady=5, sticky=tk.W)
-        ttk.Label(self.trade_edit_frame, text="").grid(row=3, column=4, padx=5, pady=5, sticky=tk.W)
+        ttk.Label(self.trade_edit_frame, text="Sell方物品ID:").grid(row=4, column=0, padx=5, pady=5, sticky=tk.W)
+        ttk.Label(self.trade_edit_frame, text="").grid(row=4, column=4, padx=5, pady=5, sticky=tk.W)
         self.sell_id = ttk.Entry(self.trade_edit_frame, width=50)
-        self.sell_id.grid(row=3, column=1, padx=5, pady=5, columnspan=3)
+        self.sell_id.grid(row=4, column=1, padx=5, pady=5, columnspan=3)
         self.sell_id.insert(0, "minecraft:grass_block")
-        
-        ttk.Label(self.trade_edit_frame, text="数量:").grid(row=3, column=5, padx=5, pady=5, sticky=tk.W)
+
+        ttk.Label(self.trade_edit_frame, text="数量:").grid(row=4, column=5, padx=5, pady=5, sticky=tk.W)
         self.sell_count = ttk.Entry(self.trade_edit_frame, width=10)
-        self.sell_count.grid(row=3, column=6, padx=5, pady=5)
+        self.sell_count.grid(row=4, column=6, padx=5, pady=5)
         self.sell_count.insert(0, "1")
         
         # 最大交易次数
-        ttk.Label(self.trade_edit_frame, text="最大交易次数(maxUses):").grid(row=4, column=0, padx=5, pady=5, sticky=tk.W)
+        ttk.Label(self.trade_edit_frame, text="最大交易次数(maxUses):").grid(row=5, column=0, padx=5, pady=5, sticky=tk.W)
         self.max_uses = ttk.Entry(self.trade_edit_frame, width=10)
-        self.max_uses.grid(row=4, column=1, padx=5, pady=5)
+        self.max_uses.grid(row=5, column=1, padx=5, pady=5)
         self.max_uses.insert(0, "256")
         
         # 添加/修改按钮
@@ -147,7 +159,7 @@ class MainWindow:
             text="添加交易项", 
             command=self.add_or_modify_trade
         )
-        self.add_modify_btn.grid(row=4, column=2, padx=5, pady=5)
+        self.add_modify_btn.grid(row=5, column=2, padx=5, pady=5)
         
         # 取消修改按钮
         self.cancel_edit_btn = ttk.Button(
@@ -155,7 +167,7 @@ class MainWindow:
             text="取消修改", 
             command=self.cancel_edit
         )
-        self.cancel_edit_btn.grid(row=4, column=3, padx=5, pady=5)
+        self.cancel_edit_btn.grid(row=5, column=3, padx=5, pady=5)
         self.cancel_edit_btn.grid_remove()  # 初始隐藏
 
     def create_trade_list_area(self):
@@ -289,7 +301,12 @@ class MainWindow:
 
     # ---------------------- 交易项管理相关方法 ----------------------
     def update_trade_listbox(self):
-        """更新交易项列表框（显示NBT标识和哈希）"""
+        """更新交易项列表框（显示NBT标识和哈希，支持buy2，保持滚动位置和选中状态）"""
+        # 保存当前滚动位置（获取滚动条的可视区域起始比例）
+        scroll_pos = self.trade_listbox.yview()[0]
+        # 保存当前选中项索引
+        selected_indices = list(self.trade_listbox.curselection())
+
         self.trade_listbox.delete(0, tk.END)
         for idx, trade in enumerate(self.trade_manager.trades):
             # 解析buy方物品
@@ -300,6 +317,14 @@ class MainWindow:
             if buy_nbt:
                 buy_info += f" [NBT: {buy_hash}]"
             
+            # 解析buy2方物品
+            _, buy2_nbt = self.nbt_handler.parse_item_with_nbt(trade.get("buy2_id", "minecraft:air"))
+            buy2_id_simple = self.nbt_handler.simplify_item_id(trade.get("buy2_id", "minecraft:air"))
+            buy2_hash = self.nbt_handler.get_nbt_hash(buy2_nbt)
+            buy2_info = f"{buy2_id_simple}:{trade.get('buy2_count', '1')}"
+            if buy2_nbt:
+                buy2_info += f" [NBT: {buy2_hash}]"
+            
             # 解析sell方物品
             _, sell_nbt = self.nbt_handler.parse_item_with_nbt(trade["sell_id"])
             sell_id_simple = self.nbt_handler.simplify_item_id(trade["sell_id"])
@@ -309,7 +334,12 @@ class MainWindow:
                 sell_info += f" [NBT: {sell_hash}]"
             
             # 构建列表项文本
-            item_text = f"{idx+1}. buy[{buy_info}] → sell[{sell_info}] | maxUses:{trade['max_uses']}"
+            if trade.get("buy2_id", "minecraft:air") != "minecraft:air" or trade.get("buy2_count", "1") != "1":
+                # 显示buy2信息（非默认空气或数量不为1时）
+                item_text = f"{idx+1}. buy[{buy_info}] + buy2[{buy2_info}] → sell[{sell_info}] | maxUses:{trade['max_uses']}"
+            else:
+                # 不显示buy2信息（默认状态）
+                item_text = f"{idx+1}. buy[{buy_info}] → sell[{sell_info}] | maxUses:{trade['max_uses']}"
             
             # 设置背景色
             if trade["trade_type"] == "emerald_buy":
@@ -319,6 +349,16 @@ class MainWindow:
             
             self.trade_listbox.insert(tk.END, item_text)
             self.trade_listbox.itemconfig(idx, bg=final_bg)
+        
+        # 恢复选中状态（处理可能的索引越界）
+        for idx in selected_indices:
+            if 0 <= idx < len(self.trade_manager.trades):
+                self.trade_listbox.selection_set(idx)
+        
+        # 恢复滚动位置
+        self.trade_listbox.yview_moveto(scroll_pos)
+
+
 
     def swap_buy_sell_on_trade_type_switch(self):
         """切换交易类型时处理物品ID"""
@@ -364,41 +404,48 @@ class MainWindow:
             self.trade_right_menu.post(event.x_root, event.y_root)
 
     def start_edit_selected_trade(self):
-        selected_idx = self.trade_listbox.curselection()
-        if len(selected_idx) != 1:
-            messagebox.showwarning("提示", "请仅选中1个交易项进行修改！")
+        """右键修改交易项时加载数据（包含buy2）"""
+        selected = self.trade_listbox.curselection()
+        if len(selected) != 1:
             return
+        idx = selected[0]
+        trade = self.trade_manager.trades[idx]
         
-        self.selected_edit_idx = selected_idx[0]
-        target_trade = self.trade_manager.trades[self.selected_edit_idx]
-        
-        # 填充参数到编辑框
+        # 填充表单（包含buy2字段）
         self.buy_id.delete(0, tk.END)
-        self.buy_id.insert(0, target_trade["buy_id"])
+        self.buy_id.insert(0, trade["buy_id"])
         self.buy_count.delete(0, tk.END)
-        self.buy_count.insert(0, target_trade["buy_count"])
+        self.buy_count.insert(0, trade["buy_count"])
+        self.buy2_id.delete(0, tk.END)
+        self.buy2_id.insert(0, trade.get("buy2_id", "minecraft:air"))  # 兼容旧配置
+        self.buy2_count.delete(0, tk.END)
+        self.buy2_count.insert(0, trade.get("buy2_count", "1"))        # 兼容旧配置
         self.sell_id.delete(0, tk.END)
-        self.sell_id.insert(0, target_trade["sell_id"])
+        self.sell_id.insert(0, trade["sell_id"])
         self.sell_count.delete(0, tk.END)
-        self.sell_count.insert(0, target_trade["sell_count"])
+        self.sell_count.insert(0, trade["sell_count"])
         self.max_uses.delete(0, tk.END)
-        self.max_uses.insert(0, target_trade["max_uses"])
-        self.trade_type_var.set(target_trade["trade_type"])
+        self.max_uses.insert(0, trade["max_uses"])
         
-        # 切换按钮状态
+        self.selected_edit_idx = idx
         self.add_modify_btn.config(text="修改交易项")
         self.cancel_edit_btn.grid()
-        self.trade_edit_frame.tkraise()
 
     def cancel_edit(self):
         self.selected_edit_idx = None
         self.add_modify_btn.config(text="添加交易项")
         self.cancel_edit_btn.grid_remove()
-        # 重置编辑框
+        # 重置编辑框（包含buy2字段）
         self.buy_id.delete(0, tk.END)
         self.buy_id.insert(0, "minecraft:emerald")
         self.buy_count.delete(0, tk.END)
         self.buy_count.insert(0, "1")
+        # 新增buy2相关重置
+        self.buy2_id.delete(0, tk.END)
+        self.buy2_id.insert(0, "minecraft:air")
+        self.buy2_count.delete(0, tk.END)
+        self.buy2_count.insert(0, "1")
+        # 原有字段保持不变
         self.sell_id.delete(0, tk.END)
         self.sell_id.insert(0, "minecraft:grass_block")
         self.sell_count.delete(0, tk.END)
@@ -407,31 +454,36 @@ class MainWindow:
         self.max_uses.insert(0, "256")
         self.trade_type_var.set("emerald_buy")
 
+
     def add_or_modify_trade(self):
-        """添加/修改交易项（增加NBT验证）"""
+        """添加/修改交易项（支持buy2，增加NBT验证）"""
         # 获取并验证输入
         buy_id_input = self.buy_id.get().strip()
+        buy2_id_input = self.buy2_id.get().strip() or "minecraft:air"  # 默认为空气
         sell_id_input = self.sell_id.get().strip()
         buy_count = self.buy_count.get().strip()
+        buy2_count = self.buy2_count.get().strip() or "1"  # 默认为1
         sell_count = self.sell_count.get().strip()
         max_uses = self.max_uses.get().strip()
         
-        if not all([buy_id_input, sell_id_input, buy_count, sell_count, max_uses]):
+        # 验证必填字段
+        if not all([buy_id_input, sell_id_input, buy_count, sell_count, max_uses, buy2_count]):
             messagebox.showerror("错误", "所有输入框不能为空！")
             return
         
-        # 验证数量
-        if not (buy_count.isdigit() and sell_count.isdigit() and max_uses.isdigit()):
+        # 验证数量为正整数
+        try:
+            if int(buy_count) <= 0 or int(buy2_count) <= 0 or int(sell_count) <= 0 or int(max_uses) <= 0:
+                messagebox.showerror("错误", "数量和maxUses必须大于0！")
+                return
+        except ValueError:
             messagebox.showerror("错误", "数量和maxUses必须是正整数！")
             return
-        if int(buy_count) <= 0 or int(sell_count) <= 0 or int(max_uses) <= 0:
-            messagebox.showerror("错误", "数量和maxUses必须大于0！")
-            return
         
-        # 验证物品格式（尝试解析NBT）
+        # 验证物品格式
         try:
-            # 仅验证格式，不实际修改
             self.nbt_handler.parse_item_with_nbt(buy_id_input)
+            self.nbt_handler.parse_item_with_nbt(buy2_id_input)
             self.nbt_handler.parse_item_with_nbt(sell_id_input)
         except ValueError as e:
             messagebox.showerror("物品格式错误", str(e))
@@ -441,6 +493,8 @@ class MainWindow:
         new_trade = {
             "buy_id": buy_id_input,
             "buy_count": buy_count,
+            "buy2_id": buy2_id_input,
+            "buy2_count": buy2_count,
             "sell_id": sell_id_input,
             "sell_count": sell_count,
             "max_uses": max_uses,
@@ -463,12 +517,17 @@ class MainWindow:
             self.buy_id.insert(0, "minecraft:emerald")
             self.buy_count.delete(0, tk.END)
             self.buy_count.insert(0, "1")
+            self.buy2_id.delete(0, tk.END)
+            self.buy2_id.insert(0, "minecraft:air")
+            self.buy2_count.delete(0, tk.END)
+            self.buy2_count.insert(0, "1")
             self.sell_id.delete(0, tk.END)
             self.sell_id.insert(0, "minecraft:grass_block")
             self.sell_count.delete(0, tk.END)
             self.sell_count.insert(0, "1")
             self.max_uses.delete(0, tk.END)
             self.max_uses.insert(0, "256")
+
 
     def delete_trade(self):
         selected_idx = self.trade_listbox.curselection()

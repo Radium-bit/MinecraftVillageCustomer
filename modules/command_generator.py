@@ -10,23 +10,23 @@ class CommandGenerator:
         
         # 设置CustomName
         cmd_step0 = (
-            f'/data modify entity @e[type=villager,name="{villager_name}",limit=1]  CustomName set value {custom_name_nbt}'
+            f'/data modify entity @e[type=villager,name="{villager_name}",limit=1] CustomName set value {custom_name_nbt}'
         )
         
         # 设置VillagerData
         cmd_step1 = (
-            f'/data modify entity @e[type=villager,name="{villager_name}",limit=1]  VillagerData set value '
+            f'/data modify entity @e[type=villager,name="{villager_name}",limit=1] VillagerData set value '
             f'{{profession:{profession},level:5}}'
         )
         
         # 设置PersistenceRequired
         cmd_step2 = (
-            f'/data modify entity @e[type=villager,name="{villager_name}",limit=1]  PersistenceRequired set value 1b'
+            f'/data modify entity @e[type=villager,name="{villager_name}",limit=1] PersistenceRequired set value 1b'
         )
         
         # 设置CustomNameVisible
         cmd_step3 = (
-            f'/data modify entity @e[type=villager,name="{villager_name}",limit=1]  CustomNameVisible set value 1b'
+            f'/data modify entity @e[type=villager,name="{villager_name}",limit=1] CustomNameVisible set value 1b'
         )
         
         # 设置Offers.Recipes（交易列表）
@@ -35,7 +35,7 @@ class CommandGenerator:
         return [cmd_step0, cmd_step1, cmd_step2, cmd_step3, cmd_step4]
     
     def generate_trade_command(self, villager_name, trades, nbt_handler):
-        """生成交易列表指令"""
+        """生成交易列表指令（支持buy2物品）"""
         recipes = []
         for trade in trades:
             try:
@@ -43,11 +43,19 @@ class CommandGenerator:
                 buy_nbt = nbt_handler.build_item_nbt_string(trade["buy_id"], trade["buy_count"])
                 sell_nbt = nbt_handler.build_item_nbt_string(trade["sell_id"], trade["sell_count"])
                 
-                recipes.append(
-                    f'{{buy:{buy_nbt},sell:{sell_nbt},maxUses:{trade["max_uses"]}}}'
-                )
+                # 构建buy2的NBT（处理可选的第二个购买物品）
+                buy2_id = trade.get("buy2_id", "minecraft:air")
+                buy2_count = trade.get("buy2_count", "1")
+                buy2_nbt = nbt_handler.build_item_nbt_string(buy2_id, buy2_count)
+                
+                # 构建交易项（包含buy2字段，仅当非默认空气时添加）
+                trade_parts = [f'buy:{buy_nbt}', f'sell:{sell_nbt}', f'maxUses:{trade["max_uses"]}']
+                if buy2_id != "minecraft:air" or buy2_count != "1":
+                    trade_parts.insert(1, f'buyB:{buy2_nbt}')  # Minecraft使用buyB表示第二个购买物品
+                
+                recipes.append(f'{{{", ".join(trade_parts)}}}')
             except Exception as e:
-                raise ValueError(f"生成交易项失败 {trade['buy_id']} → {trade['sell_id']}: {str(e)}")
+                raise ValueError(f"生成交易项失败 {trade['buy_id']} (+{trade.get('buy2_id', '空气')}) → {trade['sell_id']}: {str(e)}")
         
         recipes_str = ",\n    ".join(recipes)
         return (
