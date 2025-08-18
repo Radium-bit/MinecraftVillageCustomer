@@ -139,7 +139,7 @@ After all configurations are complete, click "Generate Command"—the full `/dat
 
 ## 📄 License Declaration
 
-This project is open-source under the **GPL-V3 License**. See the [LICENSE](https://www.doubao.com/chat/LICENSE) file for detailed terms. When using this software, you must comply with the following principles:
+This project is open-source under the **GPL-V3 License**. See the [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) file for detailed terms. When using this software, you must comply with the following principles:
 
 - Permits non-commercial and commercial use
 - Permits source code modification, but modified distributions must retain the same license

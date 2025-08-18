@@ -119,7 +119,7 @@ pyinstaller .\main.spec
 
 ## 📄 许可证声明
 
-本项目基于 **GPL-V3 许可证** 开源，详细条款请参见 [LICENSE](https://www.doubao.com/chat/LICENSE) 文件。您在使用本软件时，需遵守以下原则：
+本项目基于 **GPL-V3 许可证** 开源，详细条款请参见 [LICENSE](https://www.gnu.org/licenses/gpl-3.0.html) 文件。您在使用本软件时，需遵守以下原则：
 
 - 允许非商业和商业使用
 - 允许修改源代码，但修改后分发需保持相同许可证
