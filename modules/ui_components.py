@@ -1,3 +1,5 @@
+import os
+import sys
 import tkinter as tk
 from tkinter import ttk, messagebox
 from modules.trade_manager import TradeManager
@@ -16,10 +18,14 @@ class MainWindow:
         self.trade_manager = TradeManager()
         self.command_generator = CommandGenerator()
         self.config_handler = ConfigHandler(self)
+        # 程序基路径
+        self.base_path = None
+        # 加载基路径
+        self._ensure_base_path()
         
         # 初始化主窗口
         self.root = root
-        self.root.title("Minecraft村民交易指令生成器 v0.3A by.Radiumbit")
+        self.root.title("Minecraft村民交易指令生成器 v0.5 by.Radiumbit")
         self.root.geometry("1200x900")  # 增加宽度以适应多列
         
         # 存储UI状态
@@ -313,11 +319,11 @@ class MainWindow:
         )
         
         # 配置列标题和宽度
-        self.trade_listbox.heading("buy_icon", text="Buy物品")
-        self.trade_listbox.heading("buy_item", text="物品ID")
+        # self.trade_listbox.heading("buy_icon", text="Buy物品")
+        self.trade_listbox.heading("buy_item", text="Buy物品ID")
         self.trade_listbox.heading("buy_count", text="数量")
-        self.trade_listbox.heading("buy2_icon", text="Buy2物品")
-        self.trade_listbox.heading("buy2_item", text="物品ID")
+        # self.trade_listbox.heading("buy2_icon", text="Buy2物品")
+        self.trade_listbox.heading("buy2_item", text="Buy2物品ID")
         self.trade_listbox.heading("buy2_count", text="数量")
         self.trade_listbox.heading("arrow", text="")
         self.trade_listbox.heading("sell_icon", text="Sell物品")
@@ -446,11 +452,13 @@ class MainWindow:
     # ---------------------- 物品选择弹窗相关方法（完整移植） ----------------------
     def _preload_icons(self):
         """预加载所有物品图片到缓存"""
-        icon_dir = Path(__file__).parent / "res" / "minecraft_icons"
-        default_icon_path = icon_dir / "ItemSprite_default.png"
+        if self.base_path is None:
+            raise ValueError("程序资源路径未正确初始化")
+        icon_dir = os.path.join(self.base_path, "res", "minecraft_icons")
+        default_icon_path = os.path.join(icon_dir, "ItemSprite_default.png")
         # 预加载默认图标
         try:
-            if default_icon_path.exists():
+            if os.path.exists(default_icon_path):
                 img = Image.open(default_icon_path).resize((32, 32), Image.Resampling.LANCZOS)
                 self.default_icon = ImageTk.PhotoImage(img)
                 self.icon_photo_refs["default"] = self.default_icon  # 保存引用
@@ -466,8 +474,8 @@ class MainWindow:
         for item in self.items_data:
             item_id = item["ID"]
             try:
-                icon_path = icon_dir / f"ItemSprite_{item_id}.png"
-                if icon_path.exists():
+                icon_path = os.path.join(icon_dir, f"ItemSprite_{item_id}.png")
+                if os.path.exists(icon_path):
                     img = Image.open(icon_path).resize((32, 32), Image.Resampling.LANCZOS)
                     photo = ImageTk.PhotoImage(img)
                     self.icon_cache[item_id] = photo
@@ -492,7 +500,9 @@ class MainWindow:
 
     def _load_items_json(self):
         """加载res/Items_ZH.json物品ID-名称对应表"""
-        items_path = Path(__file__).parent / "res" / "Items_ZH.json"
+        if self.base_path is None:
+            raise ValueError("程序资源路径未正确初始化")
+        items_path = os.path.join(self.base_path, "res", "Items_ZH.json")
         try:
             with open(items_path, "r", encoding="utf-8") as f:
                 raw_data = json.load(f)
@@ -598,6 +608,14 @@ class MainWindow:
         
         # 关键：返回"break"阻止事件继续传播到父窗口
         return "break"
+
+    def _ensure_base_path(self):
+        if getattr(sys, '_MEIPASS', None):
+            # 打包后：资源在临时目录的res文件夹下
+            self.base_path = os.path.join(sys._MEIPASS, "modules")
+        else:
+            # 开发时：资源在当前脚本所在目录的res文件夹下
+            self.base_path = os.path.dirname(__file__)
 
     def _load_items_to_tree(self, filter_text=""):
         """加载物品到Treeview（带图标）"""
