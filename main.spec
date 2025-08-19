@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('modules/res', 'modules/res')],
     hiddenimports=[
         'modules.ui_components',
         'modules.nbt_handler',
