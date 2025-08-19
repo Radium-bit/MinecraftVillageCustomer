@@ -1,0 +1,2610 @@
+[
+  {
+    "ID": "acacia-boat",
+    "Name": "Acacia Boat"
+  },
+  {
+    "ID": "acacia-boat-with-chest",
+    "Name": "Acacia Boat with Chest"
+  },
+  {
+    "ID": "armor-stand",
+    "Name": "Armor Stand"
+  },
+  {
+    "ID": "bamboo-raft",
+    "Name": "Bamboo Raft"
+  },
+  {
+    "ID": "bamboo-raft-with-chest",
+    "Name": "Bamboo Raft with Chest"
+  },
+  {
+    "ID": "beetroot-seeds",
+    "Name": "Beetroot Seeds"
+  },
+  {
+    "ID": "birch-boat",
+    "Name": "Birch Boat"
+  },
+  {
+    "ID": "birch-boat-with-chest",
+    "Name": "Birch Boat with Chest"
+  },
+  {
+    "ID": "blue-egg",
+    "Name": "Blue Egg"
+  },
+  {
+    "ID": "bottle-o%27-enchanting",
+    "Name": "Bottle o' Enchanting"
+  },
+  {
+    "ID": "bow",
+    "Name": "Bow"
+  },
+  {
+    "ID": "brown-egg",
+    "Name": "Brown Egg"
+  },
+  {
+    "ID": "bucket",
+    "Name": "Bucket"
+  },
+  {
+    "ID": "bucket-of-axolotl",
+    "Name": "Bucket of Axolotl"
+  },
+  {
+    "ID": "bucket-of-cod",
+    "Name": "Bucket of Cod"
+  },
+  {
+    "ID": "bucket-of-pufferfish",
+    "Name": "Bucket of Pufferfish"
+  },
+  {
+    "ID": "bucket-of-salmon",
+    "Name": "Bucket of Salmon"
+  },
+  {
+    "ID": "bucket-of-tadpole",
+    "Name": "Bucket of Tadpole"
+  },
+  {
+    "ID": "bucket-of-tropical-fish",
+    "Name": "Bucket of Tropical Fish"
+  },
+  {
+    "ID": "carrot",
+    "Name": "Carrot"
+  },
+  {
+    "ID": "cherry-boat",
+    "Name": "Cherry Boat"
+  },
+  {
+    "ID": "cherry-boat-with-chest",
+    "Name": "Cherry Boat with Chest"
+  },
+  {
+    "ID": "cocoa-beans",
+    "Name": "Cocoa Beans"
+  },
+  {
+    "ID": "crossbow",
+    "Name": "Crossbow"
+  },
+  {
+    "ID": "dark-oak-boat",
+    "Name": "Dark Oak Boat"
+  },
+  {
+    "ID": "dark-oak-boat-with-chest",
+    "Name": "Dark Oak Boat with Chest"
+  },
+  {
+    "ID": "egg",
+    "Name": "Egg"
+  },
+  {
+    "ID": "end-crystal",
+    "Name": "End Crystal"
+  },
+  {
+    "ID": "ender-pearl",
+    "Name": "Ender Pearl"
+  },
+  {
+    "ID": "eye-of-ender",
+    "Name": "Eye of Ender"
+  },
+  {
+    "ID": "fire-charge",
+    "Name": "Fire Charge"
+  },
+  {
+    "ID": "firework-rocket",
+    "Name": "Firework Rocket"
+  },
+  {
+    "ID": "fishing-rod",
+    "Name": "Fishing Rod"
+  },
+  {
+    "ID": "flint-and-steel",
+    "Name": "Flint and Steel"
+  },
+  {
+    "ID": "glow-berries",
+    "Name": "Glow Berries"
+  },
+  {
+    "ID": "glow-item-frame",
+    "Name": "Glow Item Frame"
+  },
+  {
+    "ID": "item-frame",
+    "Name": "Item Frame"
+  },
+  {
+    "ID": "jungle-boat",
+    "Name": "Jungle Boat"
+  },
+  {
+    "ID": "jungle-boat-with-chest",
+    "Name": "Jungle Boat with Chest"
+  },
+  {
+    "ID": "kelp",
+    "Name": "Kelp"
+  },
+  {
+    "ID": "lava-bucket",
+    "Name": "Lava Bucket"
+  },
+  {
+    "ID": "lead",
+    "Name": "Lead"
+  },
+  {
+    "ID": "lingering-water-bottle",
+    "Name": "Lingering Potion"
+  },
+  {
+    "ID": "mangrove-boat",
+    "Name": "Mangrove Boat"
+  },
+  {
+    "ID": "mangrove-boat-with-chest",
+    "Name": "Mangrove Boat with Chest"
+  },
+  {
+    "ID": "melon-seeds",
+    "Name": "Melon Seeds"
+  },
+  {
+    "ID": "minecart",
+    "Name": "Minecart"
+  },
+  {
+    "ID": "minecart-with-chest",
+    "Name": "Minecart with Chest"
+  },
+  {
+    "ID": "minecart-with-command-block",
+    "Name": "Minecart with Command Block"
+  },
+  {
+    "ID": "minecart-with-furnace",
+    "Name": "Minecart with Furnace"
+  },
+  {
+    "ID": "minecart-with-hopper",
+    "Name": "Minecart with Hopper"
+  },
+  {
+    "ID": "minecart-with-tnt",
+    "Name": "Minecart with TNT"
+  },
+  {
+    "ID": "nether-wart",
+    "Name": "Nether Wart"
+  },
+  {
+    "ID": "oak-boat",
+    "Name": "Oak Boat"
+  },
+  {
+    "ID": "oak-boat-with-chest",
+    "Name": "Oak Boat with Chest"
+  },
+  {
+    "ID": "painting",
+    "Name": "Painting"
+  },
+  {
+    "ID": "pale-oak-boat",
+    "Name": "Pale Oak Boat"
+  },
+  {
+    "ID": "pale-oak-boat-with-chest",
+    "Name": "Pale Oak Boat with Chest"
+  },
+  {
+    "ID": "pitcher-pod",
+    "Name": "Pitcher Pod"
+  },
+  {
+    "ID": "potato",
+    "Name": "Potato"
+  },
+  {
+    "ID": "powder-snow-bucket",
+    "Name": "Powder Snow Bucket"
+  },
+  {
+    "ID": "pumpkin-seeds",
+    "Name": "Pumpkin Seeds"
+  },
+  {
+    "ID": "redstone-dust",
+    "Name": "Redstone Dust"
+  },
+  {
+    "ID": "snowball",
+    "Name": "Snowball"
+  },
+  {
+    "ID": "splash-water-bottle",
+    "Name": "Splash Potion"
+  },
+  {
+    "ID": "spruce-boat",
+    "Name": "Spruce Boat"
+  },
+  {
+    "ID": "spruce-boat-with-chest",
+    "Name": "Spruce Boat with Chest"
+  },
+  {
+    "ID": "string",
+    "Name": "String"
+  },
+  {
+    "ID": "sweet-berries",
+    "Name": "Sweet Berries"
+  },
+  {
+    "ID": "torchflower-seeds",
+    "Name": "Torchflower Seeds"
+  },
+  {
+    "ID": "trident",
+    "Name": "Trident"
+  },
+  {
+    "ID": "water-bucket",
+    "Name": "Water Bucket"
+  },
+  {
+    "ID": "wheat-seeds",
+    "Name": "Wheat Seeds"
+  },
+  {
+    "ID": "wind-charge",
+    "Name": "Wind Charge"
+  },
+  {
+    "ID": "amethyst-shard",
+    "Name": "Amethyst Shard"
+  },
+  {
+    "ID": "apple",
+    "Name": "Apple"
+  },
+  {
+    "ID": "armadillo-scute",
+    "Name": "Armadillo Scute"
+  },
+  {
+    "ID": "arrow",
+    "Name": "Arrow"
+  },
+  {
+    "ID": "baked-potato",
+    "Name": "Baked Potato"
+  },
+  {
+    "ID": "beetroot",
+    "Name": "Beetroot"
+  },
+  {
+    "ID": "beetroot-soup",
+    "Name": "Beetroot Soup"
+  },
+  {
+    "ID": "black-bundle",
+    "Name": "Black Bundle"
+  },
+  {
+    "ID": "black-dye",
+    "Name": "Black Dye"
+  },
+  {
+    "ID": "black-harness",
+    "Name": "Black Harness"
+  },
+  {
+    "ID": "blue-bundle",
+    "Name": "Blue Bundle"
+  },
+  {
+    "ID": "blue-dye",
+    "Name": "Blue Dye"
+  },
+  {
+    "ID": "blue-harness",
+    "Name": "Blue Harness"
+  },
+  {
+    "ID": "bone",
+    "Name": "Bone"
+  },
+  {
+    "ID": "bone-meal",
+    "Name": "Bone Meal"
+  },
+  {
+    "ID": "book",
+    "Name": "Book"
+  },
+  {
+    "ID": "book-and-quill",
+    "Name": "Book and Quill"
+  },
+  {
+    "ID": "bowl",
+    "Name": "Bowl"
+  },
+  {
+    "ID": "bread",
+    "Name": "Bread"
+  },
+  {
+    "ID": "brown-bundle",
+    "Name": "Brown Bundle"
+  },
+  {
+    "ID": "brown-dye",
+    "Name": "Brown Dye"
+  },
+  {
+    "ID": "brown-harness",
+    "Name": "Brown Harness"
+  },
+  {
+    "ID": "brush",
+    "Name": "Brush"
+  },
+  {
+    "ID": "bundle",
+    "Name": "Bundle"
+  },
+  {
+    "ID": "carrot-on-a-stick",
+    "Name": "Carrot on a Stick"
+  },
+  {
+    "ID": "chainmail-boots",
+    "Name": "Chainmail Boots"
+  },
+  {
+    "ID": "chainmail-chestplate",
+    "Name": "Chainmail Chestplate"
+  },
+  {
+    "ID": "chainmail-helmet",
+    "Name": "Chainmail Helmet"
+  },
+  {
+    "ID": "chainmail-leggings",
+    "Name": "Chainmail Leggings"
+  },
+  {
+    "ID": "charcoal",
+    "Name": "Charcoal"
+  },
+  {
+    "ID": "chorus-fruit",
+    "Name": "Chorus Fruit"
+  },
+  {
+    "ID": "coal",
+    "Name": "Coal"
+  },
+  {
+    "ID": "compass",
+    "Name": "Compass"
+  },
+  {
+    "ID": "cooked-chicken",
+    "Name": "Cooked Chicken"
+  },
+  {
+    "ID": "cooked-cod",
+    "Name": "Cooked Cod"
+  },
+  {
+    "ID": "cooked-mutton",
+    "Name": "Cooked Mutton"
+  },
+  {
+    "ID": "cooked-porkchop",
+    "Name": "Cooked Porkchop"
+  },
+  {
+    "ID": "cooked-rabbit",
+    "Name": "Cooked Rabbit"
+  },
+  {
+    "ID": "cooked-salmon",
+    "Name": "Cooked Salmon"
+  },
+  {
+    "ID": "cookie",
+    "Name": "Cookie"
+  },
+  {
+    "ID": "copper-axe",
+    "Name": "Copper Axe"
+  },
+  {
+    "ID": "copper-boots",
+    "Name": "Copper Boots"
+  },
+  {
+    "ID": "copper-chestplate",
+    "Name": "Copper Chestplate"
+  },
+  {
+    "ID": "copper-helmet",
+    "Name": "Copper Helmet"
+  },
+  {
+    "ID": "copper-hoe",
+    "Name": "Copper Hoe"
+  },
+  {
+    "ID": "copper-horse-armor",
+    "Name": "Copper Horse Armor"
+  },
+  {
+    "ID": "copper-leggings",
+    "Name": "Copper Leggings"
+  },
+  {
+    "ID": "copper-pickaxe",
+    "Name": "Copper Pickaxe"
+  },
+  {
+    "ID": "copper-shovel",
+    "Name": "Copper Shovel"
+  },
+  {
+    "ID": "copper-sword",
+    "Name": "Copper Sword"
+  },
+  {
+    "ID": "cyan-bundle",
+    "Name": "Cyan Bundle"
+  },
+  {
+    "ID": "cyan-dye",
+    "Name": "Cyan Dye"
+  },
+  {
+    "ID": "cyan-harness",
+    "Name": "Cyan Harness"
+  },
+  {
+    "ID": "stick",
+    "Name": "Debug Stick"
+  },
+  {
+    "ID": "diamond-axe",
+    "Name": "Diamond Axe"
+  },
+  {
+    "ID": "diamond-boots",
+    "Name": "Diamond Boots"
+  },
+  {
+    "ID": "diamond-chestplate",
+    "Name": "Diamond Chestplate"
+  },
+  {
+    "ID": "diamond-helmet",
+    "Name": "Diamond Helmet"
+  },
+  {
+    "ID": "diamond-hoe",
+    "Name": "Diamond Hoe"
+  },
+  {
+    "ID": "diamond-horse-armor",
+    "Name": "Diamond Horse Armor"
+  },
+  {
+    "ID": "diamond-leggings",
+    "Name": "Diamond Leggings"
+  },
+  {
+    "ID": "diamond-pickaxe",
+    "Name": "Diamond Pickaxe"
+  },
+  {
+    "ID": "diamond-shovel",
+    "Name": "Diamond Shovel"
+  },
+  {
+    "ID": "diamond-sword",
+    "Name": "Diamond Sword"
+  },
+  {
+    "ID": "dried-kelp",
+    "Name": "Dried Kelp"
+  },
+  {
+    "ID": "elytra",
+    "Name": "Elytra"
+  },
+  {
+    "ID": "empty-map",
+    "Name": "Empty Map"
+  },
+  {
+    "ID": "enchanted-book",
+    "Name": "Enchanted Book"
+  },
+  {
+    "ID": "enchanted-golden-apple",
+    "Name": "Enchanted Golden Apple"
+  },
+  {
+    "ID": "glass-bottle",
+    "Name": "Glass Bottle"
+  },
+  {
+    "ID": "glow-ink-sac",
+    "Name": "Glow Ink Sac"
+  },
+  {
+    "ID": "goat-horn",
+    "Name": "Goat Horn"
+  },
+  {
+    "ID": "gold-ingot",
+    "Name": "Gold Ingot"
+  },
+  {
+    "ID": "golden-apple",
+    "Name": "Golden Apple"
+  },
+  {
+    "ID": "golden-axe",
+    "Name": "Golden Axe"
+  },
+  {
+    "ID": "golden-boots",
+    "Name": "Golden Boots"
+  },
+  {
+    "ID": "golden-carrot",
+    "Name": "Golden Carrot"
+  },
+  {
+    "ID": "golden-chestplate",
+    "Name": "Golden Chestplate"
+  },
+  {
+    "ID": "golden-helmet",
+    "Name": "Golden Helmet"
+  },
+  {
+    "ID": "golden-hoe",
+    "Name": "Golden Hoe"
+  },
+  {
+    "ID": "gold-horse-armor",
+    "Name": "Golden Horse Armor"
+  },
+  {
+    "ID": "golden-leggings",
+    "Name": "Golden Leggings"
+  },
+  {
+    "ID": "golden-pickaxe",
+    "Name": "Golden Pickaxe"
+  },
+  {
+    "ID": "golden-shovel",
+    "Name": "Golden Shovel"
+  },
+  {
+    "ID": "golden-sword",
+    "Name": "Golden Sword"
+  },
+  {
+    "ID": "gray-bundle",
+    "Name": "Gray Bundle"
+  },
+  {
+    "ID": "gray-dye",
+    "Name": "Gray Dye"
+  },
+  {
+    "ID": "gray-harness",
+    "Name": "Gray Harness"
+  },
+  {
+    "ID": "green-bundle",
+    "Name": "Green Bundle"
+  },
+  {
+    "ID": "green-dye",
+    "Name": "Green Dye"
+  },
+  {
+    "ID": "green-harness",
+    "Name": "Green Harness"
+  },
+  {
+    "ID": "honeycomb",
+    "Name": "Honeycomb"
+  },
+  {
+    "ID": "honey-bottle",
+    "Name": "Honey Bottle"
+  },
+  {
+    "ID": "ink-sac",
+    "Name": "Ink Sac"
+  },
+  {
+    "ID": "iron-axe",
+    "Name": "Iron Axe"
+  },
+  {
+    "ID": "iron-boots",
+    "Name": "Iron Boots"
+  },
+  {
+    "ID": "iron-chestplate",
+    "Name": "Iron Chestplate"
+  },
+  {
+    "ID": "iron-helmet",
+    "Name": "Iron Helmet"
+  },
+  {
+    "ID": "iron-hoe",
+    "Name": "Iron Hoe"
+  },
+  {
+    "ID": "iron-horse-armor",
+    "Name": "Iron Horse Armor"
+  },
+  {
+    "ID": "iron-ingot",
+    "Name": "Iron Ingot"
+  },
+  {
+    "ID": "iron-leggings",
+    "Name": "Iron Leggings"
+  },
+  {
+    "ID": "iron-pickaxe",
+    "Name": "Iron Pickaxe"
+  },
+  {
+    "ID": "iron-shovel",
+    "Name": "Iron Shovel"
+  },
+  {
+    "ID": "iron-sword",
+    "Name": "Iron Sword"
+  },
+  {
+    "ID": "knowledge-book",
+    "Name": "Knowledge Book"
+  },
+  {
+    "ID": "lapis-lazuli",
+    "Name": "Lapis Lazuli"
+  },
+  {
+    "ID": "leather-boots",
+    "Name": "Leather Boots"
+  },
+  {
+    "ID": "leather-cap",
+    "Name": "Leather Cap"
+  },
+  {
+    "ID": "leather-horse-armor",
+    "Name": "Leather Horse Armor"
+  },
+  {
+    "ID": "leather-pants",
+    "Name": "Leather Pants"
+  },
+  {
+    "ID": "leather-tunic",
+    "Name": "Leather Tunic"
+  },
+  {
+    "ID": "light-blue-bundle",
+    "Name": "Light Blue Bundle"
+  },
+  {
+    "ID": "light-blue-dye",
+    "Name": "Light Blue Dye"
+  },
+  {
+    "ID": "light-blue-harness",
+    "Name": "Light Blue Harness"
+  },
+  {
+    "ID": "light-gray-bundle",
+    "Name": "Light Gray Bundle"
+  },
+  {
+    "ID": "light-gray-dye",
+    "Name": "Light Gray Dye"
+  },
+  {
+    "ID": "light-gray-harness",
+    "Name": "Light Gray Harness"
+  },
+  {
+    "ID": "lime-bundle",
+    "Name": "Lime Bundle"
+  },
+  {
+    "ID": "lime-dye",
+    "Name": "Lime Dye"
+  },
+  {
+    "ID": "lime-harness",
+    "Name": "Lime Harness"
+  },
+  {
+    "ID": "mace",
+    "Name": "Mace"
+  },
+  {
+    "ID": "magenta-bundle",
+    "Name": "Magenta Bundle"
+  },
+  {
+    "ID": "magenta-dye",
+    "Name": "Magenta Dye"
+  },
+  {
+    "ID": "magenta-harness",
+    "Name": "Magenta Harness"
+  },
+  {
+    "ID": "map",
+    "Name": "Map"
+  },
+  {
+    "ID": "melon-slice",
+    "Name": "Melon Slice"
+  },
+  {
+    "ID": "milk-bucket",
+    "Name": "Milk Bucket"
+  },
+  {
+    "ID": "mushroom-stew",
+    "Name": "Mushroom Stew"
+  },
+  {
+    "ID": "music-disc-5",
+    "Name": "Music Disc (5)"
+  },
+  {
+    "ID": "music-disc-11",
+    "Name": "Music Disc (11)"
+  },
+  {
+    "ID": "music-disc-13",
+    "Name": "Music Disc (13)"
+  },
+  {
+    "ID": "music-disc-blocks",
+    "Name": "Music Disc (blocks)"
+  },
+  {
+    "ID": "music-disc-cat",
+    "Name": "Music Disc (cat)"
+  },
+  {
+    "ID": "music-disc-chirp",
+    "Name": "Music Disc (chirp)"
+  },
+  {
+    "ID": "music-disc-creator",
+    "Name": "Music Disc (Creator)"
+  },
+  {
+    "ID": "music-disc-creator-music-box",
+    "Name": "Music Disc (Creator (Music Box))"
+  },
+  {
+    "ID": "music-disc-far",
+    "Name": "Music Disc (far)"
+  },
+  {
+    "ID": "music-disc-lava-chicken",
+    "Name": "Music Disc (Lava Chicken)"
+  },
+  {
+    "ID": "music-disc-mall",
+    "Name": "Music Disc (mall)"
+  },
+  {
+    "ID": "music-disc-mellohi",
+    "Name": "Music Disc (mellohi)"
+  },
+  {
+    "ID": "music-disc-otherside",
+    "Name": "Music Disc (otherside)"
+  },
+  {
+    "ID": "music-disc-pigstep",
+    "Name": "Music Disc (Pigstep)"
+  },
+  {
+    "ID": "music-disc-precipice",
+    "Name": "Music Disc (Precipice)"
+  },
+  {
+    "ID": "music-disc-relic",
+    "Name": "Music Disc (Relic)"
+  },
+  {
+    "ID": "music-disc-stal",
+    "Name": "Music Disc (stal)"
+  },
+  {
+    "ID": "music-disc-strad",
+    "Name": "Music Disc (strad)"
+  },
+  {
+    "ID": "music-disc-tears",
+    "Name": "Music Disc (Tears)"
+  },
+  {
+    "ID": "music-disc-wait",
+    "Name": "Music Disc (wait)"
+  },
+  {
+    "ID": "music-disc-ward",
+    "Name": "Music Disc (ward)"
+  },
+  {
+    "ID": "name-tag",
+    "Name": "Name Tag"
+  },
+  {
+    "ID": "netherite-axe",
+    "Name": "Netherite Axe"
+  },
+  {
+    "ID": "netherite-boots",
+    "Name": "Netherite Boots"
+  },
+  {
+    "ID": "netherite-chestplate",
+    "Name": "Netherite Chestplate"
+  },
+  {
+    "ID": "netherite-helmet",
+    "Name": "Netherite Helmet"
+  },
+  {
+    "ID": "netherite-hoe",
+    "Name": "Netherite Hoe"
+  },
+  {
+    "ID": "netherite-leggings",
+    "Name": "Netherite Leggings"
+  },
+  {
+    "ID": "netherite-pickaxe",
+    "Name": "Netherite Pickaxe"
+  },
+  {
+    "ID": "netherite-shovel",
+    "Name": "Netherite Shovel"
+  },
+  {
+    "ID": "netherite-sword",
+    "Name": "Netherite Sword"
+  },
+  {
+    "ID": "ominous-bottle",
+    "Name": "Ominous Bottle"
+  },
+  {
+    "ID": "ominous-trial-key",
+    "Name": "Ominous Trial Key"
+  },
+  {
+    "ID": "orange-bundle",
+    "Name": "Orange Bundle"
+  },
+  {
+    "ID": "orange-dye",
+    "Name": "Orange Dye"
+  },
+  {
+    "ID": "orange-harness",
+    "Name": "Orange Harness"
+  },
+  {
+    "ID": "pink-bundle",
+    "Name": "Pink Bundle"
+  },
+  {
+    "ID": "pink-dye",
+    "Name": "Pink Dye"
+  },
+  {
+    "ID": "pink-harness",
+    "Name": "Pink Harness"
+  },
+  {
+    "ID": "poisonous-potato",
+    "Name": "Poisonous Potato"
+  },
+  {
+    "ID": "water-bottle",
+    "Name": "Potion"
+  },
+  {
+    "ID": "pufferfish",
+    "Name": "Pufferfish"
+  },
+  {
+    "ID": "pumpkin-pie",
+    "Name": "Pumpkin Pie"
+  },
+  {
+    "ID": "purple-bundle",
+    "Name": "Purple Bundle"
+  },
+  {
+    "ID": "purple-dye",
+    "Name": "Purple Dye"
+  },
+  {
+    "ID": "purple-harness",
+    "Name": "Purple Harness"
+  },
+  {
+    "ID": "rabbit-stew",
+    "Name": "Rabbit Stew"
+  },
+  {
+    "ID": "raw-beef",
+    "Name": "Raw Beef"
+  },
+  {
+    "ID": "raw-chicken",
+    "Name": "Raw Chicken"
+  },
+  {
+    "ID": "raw-cod",
+    "Name": "Raw Cod"
+  },
+  {
+    "ID": "raw-mutton",
+    "Name": "Raw Mutton"
+  },
+  {
+    "ID": "raw-porkchop",
+    "Name": "Raw Porkchop"
+  },
+  {
+    "ID": "raw-rabbit",
+    "Name": "Raw Rabbit"
+  },
+  {
+    "ID": "raw-salmon",
+    "Name": "Raw Salmon"
+  },
+  {
+    "ID": "red-bundle",
+    "Name": "Red Bundle"
+  },
+  {
+    "ID": "red-dye",
+    "Name": "Red Dye"
+  },
+  {
+    "ID": "red-harness",
+    "Name": "Red Harness"
+  },
+  {
+    "ID": "rotten-flesh",
+    "Name": "Rotten Flesh"
+  },
+  {
+    "ID": "saddle",
+    "Name": "Saddle"
+  },
+  {
+    "ID": "shears",
+    "Name": "Shears"
+  },
+  {
+    "ID": "shield",
+    "Name": "Shield"
+  },
+  {
+    "ID": "slimeball",
+    "Name": "Slimeball"
+  },
+  {
+    "ID": "spectral-arrow",
+    "Name": "Spectral Arrow"
+  },
+  {
+    "ID": "spider-eye",
+    "Name": "Spider Eye"
+  },
+  {
+    "ID": "spyglass",
+    "Name": "Spyglass"
+  },
+  {
+    "ID": "steak",
+    "Name": "Steak"
+  },
+  {
+    "ID": "stone-axe",
+    "Name": "Stone Axe"
+  },
+  {
+    "ID": "stone-hoe",
+    "Name": "Stone Hoe"
+  },
+  {
+    "ID": "stone-pickaxe",
+    "Name": "Stone Pickaxe"
+  },
+  {
+    "ID": "stone-shovel",
+    "Name": "Stone Shovel"
+  },
+  {
+    "ID": "stone-sword",
+    "Name": "Stone Sword"
+  },
+  {
+    "ID": "sugar",
+    "Name": "Sugar"
+  },
+  {
+    "ID": "suspicious-stew",
+    "Name": "Suspicious Stew"
+  },
+  {
+    "ID": "arrow-of-splashing",
+    "Name": "Tipped Arrow"
+  },
+  {
+    "ID": "totem-of-undying",
+    "Name": "Totem of Undying"
+  },
+  {
+    "ID": "trial-key",
+    "Name": "Trial Key"
+  },
+  {
+    "ID": "tropical-fish",
+    "Name": "Tropical Fish"
+  },
+  {
+    "ID": "turtle-shell",
+    "Name": "Turtle Shell"
+  },
+  {
+    "ID": "warped-fungus-on-a-stick",
+    "Name": "Warped Fungus on a Stick"
+  },
+  {
+    "ID": "wheat",
+    "Name": "Wheat"
+  },
+  {
+    "ID": "white-bundle",
+    "Name": "White Bundle"
+  },
+  {
+    "ID": "white-dye",
+    "Name": "White Dye"
+  },
+  {
+    "ID": "white-harness",
+    "Name": "White Harness"
+  },
+  {
+    "ID": "wolf-armor",
+    "Name": "Wolf Armor"
+  },
+  {
+    "ID": "wooden-axe",
+    "Name": "Wooden Axe"
+  },
+  {
+    "ID": "wooden-hoe",
+    "Name": "Wooden Hoe"
+  },
+  {
+    "ID": "wooden-pickaxe",
+    "Name": "Wooden Pickaxe"
+  },
+  {
+    "ID": "wooden-shovel",
+    "Name": "Wooden Shovel"
+  },
+  {
+    "ID": "wooden-sword",
+    "Name": "Wooden Sword"
+  },
+  {
+    "ID": "written-book",
+    "Name": "Written Book"
+  },
+  {
+    "ID": "yellow-bundle",
+    "Name": "Yellow Bundle"
+  },
+  {
+    "ID": "yellow-dye",
+    "Name": "Yellow Dye"
+  },
+  {
+    "ID": "yellow-harness",
+    "Name": "Yellow Harness"
+  },
+  {
+    "ID": "angler-pottery-sherd",
+    "Name": "Angler Pottery Sherd"
+  },
+  {
+    "ID": "archer-pottery-sherd",
+    "Name": "Archer Pottery Sherd"
+  },
+  {
+    "ID": "arms-up-pottery-sherd",
+    "Name": "Arms Up Pottery Sherd"
+  },
+  {
+    "ID": "blade-pottery-sherd",
+    "Name": "Blade Pottery Sherd"
+  },
+  {
+    "ID": "blaze-powder",
+    "Name": "Blaze Powder"
+  },
+  {
+    "ID": "blaze-rod",
+    "Name": "Blaze Rod"
+  },
+  {
+    "ID": "bolt-armor-trim",
+    "Name": "Bolt Armor Trim"
+  },
+  {
+    "ID": "bordure-indented-banner-pattern",
+    "Name": "Bordure Indented Banner Pattern"
+  },
+  {
+    "ID": "breeze-rod",
+    "Name": "Breeze Rod"
+  },
+  {
+    "ID": "brewer-pottery-sherd",
+    "Name": "Brewer Pottery Sherd"
+  },
+  {
+    "ID": "brick",
+    "Name": "Brick"
+  },
+  {
+    "ID": "burn-pottery-sherd",
+    "Name": "Burn Pottery Sherd"
+  },
+  {
+    "ID": "clay-ball",
+    "Name": "Clay Ball"
+  },
+  {
+    "ID": "clock",
+    "Name": "Clock"
+  },
+  {
+    "ID": "coast-armor-trim",
+    "Name": "Coast Armor Trim"
+  },
+  {
+    "ID": "copper-ingot",
+    "Name": "Copper Ingot"
+  },
+  {
+    "ID": "copper-nugget",
+    "Name": "Copper Nugget"
+  },
+  {
+    "ID": "creeper-charge-banner-pattern",
+    "Name": "Creeper Charge Banner Pattern"
+  },
+  {
+    "ID": "danger-pottery-sherd",
+    "Name": "Danger Pottery Sherd"
+  },
+  {
+    "ID": "diamond",
+    "Name": "Diamond"
+  },
+  {
+    "ID": "disc-fragment",
+    "Name": "Disc Fragment"
+  },
+  {
+    "ID": "dragon%27s-breath",
+    "Name": "Dragon's Breath"
+  },
+  {
+    "ID": "dune-armor-trim",
+    "Name": "Dune Armor Trim"
+  },
+  {
+    "ID": "echo-shard",
+    "Name": "Echo Shard"
+  },
+  {
+    "ID": "emerald",
+    "Name": "Emerald"
+  },
+  {
+    "ID": "explorer-pottery-sherd",
+    "Name": "Explorer Pottery Sherd"
+  },
+  {
+    "ID": "eye-armor-trim",
+    "Name": "Eye Armor Trim"
+  },
+  {
+    "ID": "feather",
+    "Name": "Feather"
+  },
+  {
+    "ID": "fermented-spider-eye",
+    "Name": "Fermented Spider Eye"
+  },
+  {
+    "ID": "field-masoned-banner-pattern",
+    "Name": "Field Masoned Banner Pattern"
+  },
+  {
+    "ID": "firework-star",
+    "Name": "Firework Star"
+  },
+  {
+    "ID": "flint",
+    "Name": "Flint"
+  },
+  {
+    "ID": "flow-armor-trim",
+    "Name": "Flow Armor Trim"
+  },
+  {
+    "ID": "flow-banner-pattern",
+    "Name": "Flow Banner Pattern"
+  },
+  {
+    "ID": "flow-pottery-sherd",
+    "Name": "Flow Pottery Sherd"
+  },
+  {
+    "ID": "flower-charge-banner-pattern",
+    "Name": "Flower Charge Banner Pattern"
+  },
+  {
+    "ID": "friend-pottery-sherd",
+    "Name": "Friend Pottery Sherd"
+  },
+  {
+    "ID": "ghast-tear",
+    "Name": "Ghast Tear"
+  },
+  {
+    "ID": "glistering-melon-slice",
+    "Name": "Glistering Melon Slice"
+  },
+  {
+    "ID": "globe-banner-pattern",
+    "Name": "Globe Banner Pattern"
+  },
+  {
+    "ID": "glowstone-dust",
+    "Name": "Glowstone Dust"
+  },
+  {
+    "ID": "gold-nugget",
+    "Name": "Gold Nugget"
+  },
+  {
+    "ID": "gunpowder",
+    "Name": "Gunpowder"
+  },
+  {
+    "ID": "guster-banner-pattern",
+    "Name": "Guster Banner Pattern"
+  },
+  {
+    "ID": "guster-pottery-sherd",
+    "Name": "Guster Pottery Sherd"
+  },
+  {
+    "ID": "heart-of-the-sea",
+    "Name": "Heart of the Sea"
+  },
+  {
+    "ID": "heart-pottery-sherd",
+    "Name": "Heart Pottery Sherd"
+  },
+  {
+    "ID": "heartbreak-pottery-sherd",
+    "Name": "Heartbreak Pottery Sherd"
+  },
+  {
+    "ID": "host-armor-trim",
+    "Name": "Host Armor Trim"
+  },
+  {
+    "ID": "howl-pottery-sherd",
+    "Name": "Howl Pottery Sherd"
+  },
+  {
+    "ID": "iron-nugget",
+    "Name": "Iron Nugget"
+  },
+  {
+    "ID": "leather",
+    "Name": "Leather"
+  },
+  {
+    "ID": "lodestone-compass",
+    "Name": "Lodestone Compass"
+  },
+  {
+    "ID": "magma-cream",
+    "Name": "Magma Cream"
+  },
+  {
+    "ID": "miner-pottery-sherd",
+    "Name": "Miner Pottery Sherd"
+  },
+  {
+    "ID": "mourner-pottery-sherd",
+    "Name": "Mourner Pottery Sherd"
+  },
+  {
+    "ID": "nautilus-shell",
+    "Name": "Nautilus Shell"
+  },
+  {
+    "ID": "nether-brick",
+    "Name": "Nether Brick"
+  },
+  {
+    "ID": "nether-quartz",
+    "Name": "Nether Quartz"
+  },
+  {
+    "ID": "nether-star",
+    "Name": "Nether Star"
+  },
+  {
+    "ID": "netherite-ingot",
+    "Name": "Netherite Ingot"
+  },
+  {
+    "ID": "netherite-scrap",
+    "Name": "Netherite Scrap"
+  },
+  {
+    "ID": "netherite-upgrade",
+    "Name": "Netherite Upgrade"
+  },
+  {
+    "ID": "paper",
+    "Name": "Paper"
+  },
+  {
+    "ID": "phantom-membrane",
+    "Name": "Phantom Membrane"
+  },
+  {
+    "ID": "plenty-pottery-sherd",
+    "Name": "Plenty Pottery Sherd"
+  },
+  {
+    "ID": "popped-chorus-fruit",
+    "Name": "Popped Chorus Fruit"
+  },
+  {
+    "ID": "prismarine-crystals",
+    "Name": "Prismarine Crystals"
+  },
+  {
+    "ID": "prismarine-shard",
+    "Name": "Prismarine Shard"
+  },
+  {
+    "ID": "prize-pottery-sherd",
+    "Name": "Prize Pottery Sherd"
+  },
+  {
+    "ID": "rabbit-hide",
+    "Name": "Rabbit Hide"
+  },
+  {
+    "ID": "rabbit%27s-foot",
+    "Name": "Rabbit's Foot"
+  },
+  {
+    "ID": "raiser-armor-trim",
+    "Name": "Raiser Armor Trim"
+  },
+  {
+    "ID": "raw-copper",
+    "Name": "Raw Copper"
+  },
+  {
+    "ID": "raw-gold",
+    "Name": "Raw Gold"
+  },
+  {
+    "ID": "raw-iron",
+    "Name": "Raw Iron"
+  },
+  {
+    "ID": "recovery-compass",
+    "Name": "Recovery Compass"
+  },
+  {
+    "ID": "resin-brick",
+    "Name": "Resin Brick"
+  },
+  {
+    "ID": "rib-armor-trim",
+    "Name": "Rib Armor Trim"
+  },
+  {
+    "ID": "scrape-pottery-sherd",
+    "Name": "Scrape Pottery Sherd"
+  },
+  {
+    "ID": "sentry-armor-trim",
+    "Name": "Sentry Armor Trim"
+  },
+  {
+    "ID": "armor-trim",
+    "Name": "Shaper Armor Trim"
+  },
+  {
+    "ID": "sheaf-pottery-sherd",
+    "Name": "Sheaf Pottery Sherd"
+  },
+  {
+    "ID": "shelter-pottery-sherd",
+    "Name": "Shelter Pottery Sherd"
+  },
+  {
+    "ID": "shulker-shell",
+    "Name": "Shulker Shell"
+  },
+  {
+    "ID": "silence-armor-trim",
+    "Name": "Silence Armor Trim"
+  },
+  {
+    "ID": "skull-charge-banner-pattern",
+    "Name": "Skull Charge Banner Pattern"
+  },
+  {
+    "ID": "skull-pottery-sherd",
+    "Name": "Skull Pottery Sherd"
+  },
+  {
+    "ID": "snort-pottery-sherd",
+    "Name": "Snort Pottery Sherd"
+  },
+  {
+    "ID": "snout-armor-trim",
+    "Name": "Snout Armor Trim"
+  },
+  {
+    "ID": "snout-banner-pattern",
+    "Name": "Snout Banner Pattern"
+  },
+  {
+    "ID": "spire-armor-trim",
+    "Name": "Spire Armor Trim"
+  },
+  {
+    "ID": "thing-banner-pattern",
+    "Name": "Thing Banner Pattern"
+  },
+  {
+    "ID": "tide-armor-trim",
+    "Name": "Tide Armor Trim"
+  },
+  {
+    "ID": "turtle-scute",
+    "Name": "Turtle Scute"
+  },
+  {
+    "ID": "vex-armor-trim",
+    "Name": "Vex Armor Trim"
+  },
+  {
+    "ID": "ward-armor-trim",
+    "Name": "Ward Armor Trim"
+  },
+  {
+    "ID": "wayfinder-armor-trim",
+    "Name": "Wayfinder Armor Trim"
+  },
+  {
+    "ID": "wild-armor-trim",
+    "Name": "Wild Armor Trim"
+  },
+  {
+    "ID": "armadillo-spawn-egg",
+    "Name": "Armadillo Spawn Egg"
+  },
+  {
+    "ID": "allay-spawn-egg",
+    "Name": "Allay Spawn Egg"
+  },
+  {
+    "ID": "axolotl-spawn-egg",
+    "Name": "Axolotl Spawn Egg"
+  },
+  {
+    "ID": "bat-spawn-egg",
+    "Name": "Bat Spawn Egg"
+  },
+  {
+    "ID": "bee-spawn-egg",
+    "Name": "Bee Spawn Egg"
+  },
+  {
+    "ID": "blaze-spawn-egg",
+    "Name": "Blaze Spawn Egg"
+  },
+  {
+    "ID": "bogged-spawn-egg",
+    "Name": "Bogged Spawn Egg"
+  },
+  {
+    "ID": "breeze-spawn-egg",
+    "Name": "Breeze Spawn Egg"
+  },
+  {
+    "ID": "camel-spawn-egg",
+    "Name": "Camel Spawn Egg"
+  },
+  {
+    "ID": "cat-spawn-egg",
+    "Name": "Cat Spawn Egg"
+  },
+  {
+    "ID": "cave-spider-spawn-egg",
+    "Name": "Cave Spider Spawn Egg"
+  },
+  {
+    "ID": "chicken-spawn-egg",
+    "Name": "Chicken Spawn Egg"
+  },
+  {
+    "ID": "cod-spawn-egg",
+    "Name": "Cod Spawn Egg"
+  },
+  {
+    "ID": "copper-golem-spawn-egg",
+    "Name": "Copper Golem Spawn Egg"
+  },
+  {
+    "ID": "cow-spawn-egg",
+    "Name": "Cow Spawn Egg"
+  },
+  {
+    "ID": "creeper-spawn-egg",
+    "Name": "Creeper Spawn Egg"
+  },
+  {
+    "ID": "creaking-spawn-egg",
+    "Name": "Creaking Spawn Egg"
+  },
+  {
+    "ID": "dolphin-spawn-egg",
+    "Name": "Dolphin Spawn Egg"
+  },
+  {
+    "ID": "donkey-spawn-egg",
+    "Name": "Donkey Spawn Egg"
+  },
+  {
+    "ID": "drowned-spawn-egg",
+    "Name": "Drowned Spawn Egg"
+  },
+  {
+    "ID": "elder-guardian-spawn-egg",
+    "Name": "Elder Guardian Spawn Egg"
+  },
+  {
+    "ID": "ender-dragon-spawn-egg",
+    "Name": "Ender Dragon Spawn Egg"
+  },
+  {
+    "ID": "enderman-spawn-egg",
+    "Name": "Enderman Spawn Egg"
+  },
+  {
+    "ID": "endermite-spawn-egg",
+    "Name": "Endermite Spawn Egg"
+  },
+  {
+    "ID": "evoker-spawn-egg",
+    "Name": "Evoker Spawn Egg"
+  },
+  {
+    "ID": "fox-spawn-egg",
+    "Name": "Fox Spawn Egg"
+  },
+  {
+    "ID": "frog-spawn-egg",
+    "Name": "Frog Spawn Egg"
+  },
+  {
+    "ID": "ghast-spawn-egg",
+    "Name": "Ghast Spawn Egg"
+  },
+  {
+    "ID": "glow-squid-spawn-egg",
+    "Name": "Glow Squid Spawn Egg"
+  },
+  {
+    "ID": "goat-spawn-egg",
+    "Name": "Goat Spawn Egg"
+  },
+  {
+    "ID": "guardian-spawn-egg",
+    "Name": "Guardian Spawn Egg"
+  },
+  {
+    "ID": "happy-ghast-spawn-egg",
+    "Name": "Happy Ghast Spawn Egg"
+  },
+  {
+    "ID": "hoglin-spawn-egg",
+    "Name": "Hoglin Spawn Egg"
+  },
+  {
+    "ID": "horse-spawn-egg",
+    "Name": "Horse Spawn Egg"
+  },
+  {
+    "ID": "husk-spawn-egg",
+    "Name": "Husk Spawn Egg"
+  },
+  {
+    "ID": "iron-golem-spawn-egg",
+    "Name": "Iron Golem Spawn Egg"
+  },
+  {
+    "ID": "llama-spawn-egg",
+    "Name": "Llama Spawn Egg"
+  },
+  {
+    "ID": "magma-cube-spawn-egg",
+    "Name": "Magma Cube Spawn Egg"
+  },
+  {
+    "ID": "mooshroom-spawn-egg",
+    "Name": "Mooshroom Spawn Egg"
+  },
+  {
+    "ID": "mule-spawn-egg",
+    "Name": "Mule Spawn Egg"
+  },
+  {
+    "ID": "npc-spawn-egg",
+    "Name": "Spawn NPC"
+  },
+  {
+    "ID": "ocelot-spawn-egg",
+    "Name": "Ocelot Spawn Egg"
+  },
+  {
+    "ID": "panda-spawn-egg",
+    "Name": "Panda Spawn Egg"
+  },
+  {
+    "ID": "parrot-spawn-egg",
+    "Name": "Parrot Spawn Egg"
+  },
+  {
+    "ID": "phantom-spawn-egg",
+    "Name": "Phantom Spawn Egg"
+  },
+  {
+    "ID": "pig-spawn-egg",
+    "Name": "Pig Spawn Egg"
+  },
+  {
+    "ID": "piglin-spawn-egg",
+    "Name": "Piglin Spawn Egg"
+  },
+  {
+    "ID": "piglin-brute-spawn-egg",
+    "Name": "Piglin Brute Spawn Egg"
+  },
+  {
+    "ID": "pillager-spawn-egg",
+    "Name": "Pillager Spawn Egg"
+  },
+  {
+    "ID": "polar-bear-spawn-egg",
+    "Name": "Polar Bear Spawn Egg"
+  },
+  {
+    "ID": "pufferfish-spawn-egg",
+    "Name": "Pufferfish Spawn Egg"
+  },
+  {
+    "ID": "rabbit-spawn-egg",
+    "Name": "Rabbit Spawn Egg"
+  },
+  {
+    "ID": "ravager-spawn-egg",
+    "Name": "Ravager Spawn Egg"
+  },
+  {
+    "ID": "salmon-spawn-egg",
+    "Name": "Salmon Spawn Egg"
+  },
+  {
+    "ID": "sheep-spawn-egg",
+    "Name": "Sheep Spawn Egg"
+  },
+  {
+    "ID": "shulker-spawn-egg",
+    "Name": "Shulker Spawn Egg"
+  },
+  {
+    "ID": "silverfish-spawn-egg",
+    "Name": "Silverfish Spawn Egg"
+  },
+  {
+    "ID": "skeleton-horse-spawn-egg",
+    "Name": "Skeleton Horse Spawn Egg"
+  },
+  {
+    "ID": "skeleton-spawn-egg",
+    "Name": "Skeleton Spawn Egg"
+  },
+  {
+    "ID": "slime-spawn-egg",
+    "Name": "Slime Spawn Egg"
+  },
+  {
+    "ID": "sniffer-spawn-egg",
+    "Name": "Sniffer Spawn Egg"
+  },
+  {
+    "ID": "snow-golem-spawn-egg",
+    "Name": "Snow Golem Spawn Egg"
+  },
+  {
+    "ID": "spider-spawn-egg",
+    "Name": "Spider Spawn Egg"
+  },
+  {
+    "ID": "squid-spawn-egg",
+    "Name": "Squid Spawn Egg"
+  },
+  {
+    "ID": "stray-spawn-egg",
+    "Name": "Stray Spawn Egg"
+  },
+  {
+    "ID": "strider-spawn-egg",
+    "Name": "Strider Spawn Egg"
+  },
+  {
+    "ID": "tadpole-spawn-egg",
+    "Name": "Tadpole Spawn Egg"
+  },
+  {
+    "ID": "trader-llama-spawn-egg",
+    "Name": "Trader Llama Spawn Egg"
+  },
+  {
+    "ID": "tropical-fish-spawn-egg",
+    "Name": "Tropical Fish Spawn Egg"
+  },
+  {
+    "ID": "turtle-spawn-egg",
+    "Name": "Turtle Spawn Egg"
+  },
+  {
+    "ID": "vex-spawn-egg",
+    "Name": "Vex Spawn Egg"
+  },
+  {
+    "ID": "villager-spawn-egg",
+    "Name": "Villager Spawn Egg"
+  },
+  {
+    "ID": "vindicator-spawn-egg",
+    "Name": "Vindicator Spawn Egg"
+  },
+  {
+    "ID": "wandering-trader-spawn-egg",
+    "Name": "Wandering Trader Spawn Egg"
+  },
+  {
+    "ID": "warden-spawn-egg",
+    "Name": "Warden Spawn Egg"
+  },
+  {
+    "ID": "witch-spawn-egg",
+    "Name": "Witch Spawn Egg"
+  },
+  {
+    "ID": "wither-skeleton-spawn-egg",
+    "Name": "Wither Skeleton Spawn Egg"
+  },
+  {
+    "ID": "wither-spawn-egg",
+    "Name": "Wither Spawn Egg"
+  },
+  {
+    "ID": "wolf-spawn-egg",
+    "Name": "Wolf Spawn Egg"
+  },
+  {
+    "ID": "zoglin-spawn-egg",
+    "Name": "Zoglin Spawn Egg"
+  },
+  {
+    "ID": "zombie-horse-spawn-egg",
+    "Name": "Zombie Horse Spawn Egg"
+  },
+  {
+    "ID": "zombie-spawn-egg",
+    "Name": "Zombie Spawn Egg"
+  },
+  {
+    "ID": "zombie-villager-spawn-egg",
+    "Name": "Zombie Villager Spawn Egg"
+  },
+  {
+    "ID": "zombified-piglin-spawn-egg",
+    "Name": "Zombified Piglin Spawn Egg"
+  },
+  {
+    "ID": "agent-spawn-egg",
+    "Name": "Agent Spawn Egg"
+  },
+  {
+    "ID": "antidote",
+    "Name": "Antidote"
+  },
+  {
+    "ID": "black-balloon",
+    "Name": "Black Balloon"
+  },
+  {
+    "ID": "bleach",
+    "Name": "Bleach"
+  },
+  {
+    "ID": "blue-balloon",
+    "Name": "Blue Balloon"
+  },
+  {
+    "ID": "blue-glow-stick",
+    "Name": "Blue Glow Stick"
+  },
+  {
+    "ID": "blue-sparkler",
+    "Name": "Blue Sparkler"
+  },
+  {
+    "ID": "board",
+    "Name": "Board"
+  },
+  {
+    "ID": "brown-balloon",
+    "Name": "Brown Balloon"
+  },
+  {
+    "ID": "brown-glow-stick",
+    "Name": "Brown Glow Stick"
+  },
+  {
+    "ID": "compound",
+    "Name": "Compounds"
+  },
+  {
+    "ID": "cyan-balloon",
+    "Name": "Cyan Balloon"
+  },
+  {
+    "ID": "cyan-glow-stick",
+    "Name": "Cyan Glow Stick"
+  },
+  {
+    "ID": "elixir",
+    "Name": "Elixir"
+  },
+  {
+    "ID": "eye-drops",
+    "Name": "Eye Drops"
+  },
+  {
+    "ID": "gray-balloon",
+    "Name": "Gray Balloon"
+  },
+  {
+    "ID": "gray-glow-stick",
+    "Name": "Gray Glow Stick"
+  },
+  {
+    "ID": "green-balloon",
+    "Name": "Green Balloon"
+  },
+  {
+    "ID": "green-glow-stick",
+    "Name": "Green Glow Stick"
+  },
+  {
+    "ID": "green-sparkler",
+    "Name": "Green Sparkler"
+  },
+  {
+    "ID": "ice-bomb",
+    "Name": "Ice Bomb"
+  },
+  {
+    "ID": "light-blue-balloon",
+    "Name": "Light Blue Balloon"
+  },
+  {
+    "ID": "light-blue-glow-stick",
+    "Name": "Light Blue Glow Stick"
+  },
+  {
+    "ID": "lime-balloon",
+    "Name": "Lime Balloon"
+  },
+  {
+    "ID": "lime-glow-stick",
+    "Name": "Lime Glow Stick"
+  },
+  {
+    "ID": "magenta-balloon",
+    "Name": "Magenta Balloon"
+  },
+  {
+    "ID": "magenta-glow-stick",
+    "Name": "Magenta Glow Stick"
+  },
+  {
+    "ID": "orange-balloon",
+    "Name": "Orange Balloon"
+  },
+  {
+    "ID": "orange-glow-stick",
+    "Name": "Orange Glow Stick"
+  },
+  {
+    "ID": "all-sparklers",
+    "Name": "Orange Sparkler"
+  },
+  {
+    "ID": "photo",
+    "Name": "Photo"
+  },
+  {
+    "ID": "pink-balloon",
+    "Name": "Pink Balloon"
+  },
+  {
+    "ID": "pink-glow-stick",
+    "Name": "Pink Glow Stick"
+  },
+  {
+    "ID": "portfolio",
+    "Name": "Portfolio"
+  },
+  {
+    "ID": "poster",
+    "Name": "Poster"
+  },
+  {
+    "ID": "purple-balloon",
+    "Name": "Purple Balloon"
+  },
+  {
+    "ID": "purple-glow-stick",
+    "Name": "Purple Glow Stick"
+  },
+  {
+    "ID": "purple-sparkler",
+    "Name": "Purple Sparkler"
+  },
+  {
+    "ID": "red-balloon",
+    "Name": "Red Balloon"
+  },
+  {
+    "ID": "red-glow-stick",
+    "Name": "Red Glow Stick"
+  },
+  {
+    "ID": "red-sparkler",
+    "Name": "Red Sparkler"
+  },
+  {
+    "ID": "light-gray-balloon",
+    "Name": "Silver Balloon"
+  },
+  {
+    "ID": "slate",
+    "Name": "Slate"
+  },
+  {
+    "ID": "super-fertilizer",
+    "Name": "Super Fertilizer"
+  },
+  {
+    "ID": "tonic",
+    "Name": "Tonic"
+  },
+  {
+    "ID": "white-balloon",
+    "Name": "White Balloon"
+  },
+  {
+    "ID": "all-glow-sticks",
+    "Name": "White Glow Stick"
+  },
+  {
+    "ID": "yellow-balloon",
+    "Name": "Yellow Balloon"
+  },
+  {
+    "ID": "yellow-glow-stick",
+    "Name": "Yellow Glow Stick"
+  },
+  {
+    "ID": "copper-horn",
+    "Name": "Copper Horn"
+  },
+  {
+    "ID": "block-inspector",
+    "Name": "Block Inspector"
+  },
+  {
+    "ID": "horse-saddle",
+    "Name": "Horse Saddle"
+  },
+  {
+    "ID": "studded-helmet",
+    "Name": "Studded Helmet"
+  },
+  {
+    "ID": "studded-chestplate",
+    "Name": "Studded Chestplate"
+  },
+  {
+    "ID": "studded-leggings",
+    "Name": "Studded Leggings"
+  },
+  {
+    "ID": "studded-boots",
+    "Name": "Studded Boots"
+  },
+  {
+    "ID": "quiver",
+    "Name": "Quiver"
+  },
+  {
+    "ID": "3d",
+    "Name": "3D"
+  },
+  {
+    "ID": "a-very-fine-item",
+    "Name": "A Very Fine Item"
+  },
+  {
+    "ID": "amber-gem",
+    "Name": "Amber Gem"
+  },
+  {
+    "ID": "ankle-monitor",
+    "Name": "Ankle Monitor"
+  },
+  {
+    "ID": "arrow-of-big",
+    "Name": "Arrow of Big"
+  },
+  {
+    "ID": "arrow-of-small",
+    "Name": "Arrow of Small"
+  },
+  {
+    "ID": "batato-spawn-egg",
+    "Name": "Batato Spawn Egg"
+  },
+  {
+    "ID": "blue-key",
+    "Name": "Blue Key"
+  },
+  {
+    "ID": "bit",
+    "Name": "Bit"
+  },
+  {
+    "ID": "bottle-of-entity",
+    "Name": "Bottle of Entity"
+  },
+  {
+    "ID": "bottle-of-void",
+    "Name": "Bottle of Void"
+  },
+  {
+    "ID": "byte",
+    "Name": "Byte Tag"
+  },
+  {
+    "ID": "compound-tag",
+    "Name": "Compound Tag"
+  },
+  {
+    "ID": "corrupted-potato-peels",
+    "Name": "Corrupted Potato Peels"
+  },
+  {
+    "ID": "dent",
+    "Name": "Dent"
+  },
+  {
+    "ID": "double",
+    "Name": "Double Tag"
+  },
+  {
+    "ID": "enchanted-golden-poisonous-potato",
+    "Name": "Enchanted Golden Poisonous Potato"
+  },
+  {
+    "ID": "eye-of-exit",
+    "Name": "Eye of Exit"
+  },
+  {
+    "ID": "float",
+    "Name": "Float Tag"
+  },
+  {
+    "ID": "footprint",
+    "Name": "Footprint"
+  },
+  {
+    "ID": "golden-poisonous-potato",
+    "Name": "Golden Poisonous Potato"
+  },
+  {
+    "ID": "grave-advancement",
+    "Name": "Grave"
+  },
+  {
+    "ID": "hash-browns",
+    "Name": "Hash Browns"
+  },
+  {
+    "ID": "hot-potato",
+    "Name": "Hot potato"
+  },
+  {
+    "ID": "int",
+    "Name": "Int Tag"
+  },
+  {
+    "ID": "la-baguette",
+    "Name": "La Baguette"
+  },
+  {
+    "ID": "le-tricolore",
+    "Name": "Le Tricolore"
+  },
+  {
+    "ID": "left-curly",
+    "Name": "Left Curly"
+  },
+  {
+    "ID": "left-square",
+    "Name": "Left Square"
+  },
+  {
+    "ID": "lingering-potion-of-big",
+    "Name": "Lingering Potion of Big"
+  },
+  {
+    "ID": "lingering-potion-of-small",
+    "Name": "Lingering Potion of Small"
+  },
+  {
+    "ID": "list",
+    "Name": "List Tag"
+  },
+  {
+    "ID": "long",
+    "Name": "Long Tag"
+  },
+  {
+    "ID": "longer-string",
+    "Name": "Longer String"
+  },
+  {
+    "ID": "mega-spud-spawn-egg",
+    "Name": "Mega Spud Spawn Egg"
+  },
+  {
+    "ID": "mine",
+    "Name": "Mine"
+  },
+  {
+    "ID": "mine-ingredient",
+    "Name": "Mine Ingredient"
+  },
+  {
+    "ID": "moon-cow-spawn-egg",
+    "Name": "Moon Cow Spawn Egg"
+  },
+  {
+    "ID": "music-disc-and-action",
+    "Name": "Music Disc And Action!"
+  },
+  {
+    "ID": "name",
+    "Name": "Name"
+  },
+  {
+    "ID": "banner-pattern",
+    "Name": "New Thing Banner Pattern"
+  },
+  {
+    "ID": "obsidian-boat",
+    "Name": "Obsidian Boat"
+  },
+  {
+    "ID": "plaguewhale-slab-spawn-egg",
+    "Name": "Plaguewhale Slab Spawn Egg"
+  },
+  {
+    "ID": "poisonous-polytra",
+    "Name": "Poisonous Polytra"
+  },
+  {
+    "ID": "poisonous-pota-toes",
+    "Name": "Poisonous Pota-Toes"
+  },
+  {
+    "ID": "poisonous-potato-chestplate",
+    "Name": "Poisonous Potato Chestplate"
+  },
+  {
+    "ID": "poisonous-potato-chips",
+    "Name": "Poisonous Potato Chips"
+  },
+  {
+    "ID": "poisonous-potato-fries",
+    "Name": "Poisonous Potato Fries"
+  },
+  {
+    "ID": "poisonous-potato-hammer",
+    "Name": "Poisonous Potato Hammer"
+  },
+  {
+    "ID": "poisonous-potato-oil",
+    "Name": "Poisonous Potato Oil"
+  },
+  {
+    "ID": "poisonous-potato-plant",
+    "Name": "Poisonous Potato Plant"
+  },
+  {
+    "ID": "poisonous-potato-slices",
+    "Name": "Poisonous Potato Slices"
+  },
+  {
+    "ID": "poisonous-potato-sticks",
+    "Name": "Poisonous Potato Sticks"
+  },
+  {
+    "ID": "poisonous-potato-zombie-spawn-egg",
+    "Name": "Poisonous Potato Zombie Spawn Egg"
+  },
+  {
+    "ID": "potato-eye",
+    "Name": "Potato Eye"
+  },
+  {
+    "ID": "potato-oil",
+    "Name": "Potato Oil"
+  },
+  {
+    "ID": "potato-oil-%28potion%29",
+    "Name": "Potato Oil (Potion)"
+  },
+  {
+    "ID": "potato-peeler",
+    "Name": "Potato Peeler"
+  },
+  {
+    "ID": "potato-peels",
+    "Name": "Potato Peels"
+  },
+  {
+    "ID": "potatiesh%2C-greatstaff-of-the-peasant",
+    "Name": "Potatiesh, Greatstaff of the Peasant"
+  },
+  {
+    "ID": "potion-of-big",
+    "Name": "Potion of Big"
+  },
+  {
+    "ID": "potion-of-small",
+    "Name": "Potion of Small"
+  },
+  {
+    "ID": "reality-vision",
+    "Name": "Reality Vision"
+  },
+  {
+    "ID": "red-key",
+    "Name": "Red Key"
+  },
+  {
+    "ID": "right-curly",
+    "Name": "Right Curly"
+  },
+  {
+    "ID": "right-square",
+    "Name": "Right Square"
+  },
+  {
+    "ID": "shimmering-key",
+    "Name": "Shimmering Key"
+  },
+  {
+    "ID": "short",
+    "Name": "Short Tag"
+  },
+  {
+    "ID": "sky-box",
+    "Name": "Sky Box"
+  },
+  {
+    "ID": "shazboots%21",
+    "Name": "Shazboots!"
+  },
+  {
+    "ID": "smarter-watch",
+    "Name": "Smarter Watch"
+  },
+  {
+    "ID": "splash-bottle-of-entity",
+    "Name": "Splash Bottle of Entity"
+  },
+  {
+    "ID": "splash-potion-of-big",
+    "Name": "Splash Potion of Big"
+  },
+  {
+    "ID": "splash-potion-of-small",
+    "Name": "Splash Potion of Small"
+  },
+  {
+    "ID": "sssyntax-error",
+    "Name": "Sssyntax Error"
+  },
+  {
+    "ID": "string-tag",
+    "Name": "String Tag"
+  },
+  {
+    "ID": "tag",
+    "Name": "Tag"
+  },
+  {
+    "ID": "toxic-beam",
+    "Name": "Toxic Beam"
+  },
+  {
+    "ID": "toxic-resin",
+    "Name": "Toxic Resin"
+  },
+  {
+    "ID": "toxifin-slab-spawn-egg",
+    "Name": "Toxifin Slab Spawn Egg"
+  },
+  {
+    "ID": "venomous-potato",
+    "Name": "Venomous Potato"
+  },
+  {
+    "ID": "yellow-key",
+    "Name": "Yellow Key"
+  },
+  {
+    "ID": "potion-of-swiftness",
+    "Name": "Potion"
+  },
+  {
+    "ID": "lingering-potion-of-swiftness",
+    "Name": "Lingering"
+  },
+  {
+    "ID": "splash-potion-of-swiftness",
+    "Name": "Splash"
+  },
+  {
+    "ID": "ocean-explorer-map",
+    "Name": "Explorer"
+  },
+  {
+    "ID": "all-bundles",
+    "Name": "Dyed"
+  },
+  {
+    "ID": "all-harnesses",
+    "Name": "Harness"
+  },
+  {
+    "ID": "all-balloons",
+    "Name": "Balloon"
+  },
+  {
+    "ID": "resin-clump",
+    "Name": "Resin Clump"
+  },
+  {
+    "ID": "garbage",
+    "Name": "Compounds"
+  },
+  {
+    "ID": "mod-armor-%28china-edition%29",
+    "Name": "Mod armor (China Edition)"
+  },
+  {
+    "ID": "mod-%28china-edition%29",
+    "Name": "Mod (China Edition)"
+  },
+  {
+    "ID": "potion-of-fire-resistance",
+    "Name": "Reverted Potions"
+  },
+  {
+    "ID": "potion-of-luck",
+    "Name": "Potion of Luck"
+  },
+  {
+    "ID": "uncraftable-potion",
+    "Name": "Uncraftable Potion"
+  },
+  {
+    "ID": "potion-of-decay",
+    "Name": "Potion of Decay"
+  },
+  {
+    "ID": "potion-of-haste",
+    "Name": "Unused Potions"
+  },
+  {
+    "ID": "ruby",
+    "Name": "Ruby"
+  },
+  {
+    "ID": "crystallized-honey",
+    "Name": "Crystallized Honey"
+  },
+  {
+    "ID": "potion-of-poison-pre-texture-update",
+    "Name": "Potion of Caring"
+  },
+  {
+    "ID": "splash-potion-of-poison-pre-texture-update",
+    "Name": "Splash"
+  },
+  {
+    "ID": "potion-of-weakness-pre-texture-update",
+    "Name": "Potion of Sharing"
+  },
+  {
+    "ID": "splash-potion-of-weakness-pre-texture-update",
+    "Name": "Splash"
+  },
+  {
+    "ID": "lashing-potato",
+    "Name": "Lashing Potato"
+  },
+  {
+    "ID": "potion-of-sticky",
+    "Name": "Potion of Sticky"
+  },
+  {
+    "ID": "splash-potion-of-sticky",
+    "Name": "Splash"
+  },
+  {
+    "ID": "lingering-potion-of-sticky",
+    "Name": "Lingering"
+  },
+  {
+    "ID": "arrow-of-sticky",
+    "Name": "Arrow"
+  },
+  {
+    "ID": "splash-potato-oil",
+    "Name": "Splash"
+  },
+  {
+    "ID": "lingering-potato-oil",
+    "Name": "Lingering"
+  },
+  {
+    "ID": "arrow-of-oilyness",
+    "Name": "Arrow"
+  },
+  {
+    "ID": "poisonous-potato-oil-%28potion%29",
+    "Name": "Poisonous Potato Oil (Potion)"
+  },
+  {
+    "ID": "splash-poisonous-potato-oil",
+    "Name": "Splash"
+  },
+  {
+    "ID": "lingering-poisonous-potato-oil",
+    "Name": "Lingering"
+  },
+  {
+    "ID": "arrow-of-deadly-oilyness",
+    "Name": "Arrow"
+  }
+]
