@@ -202,7 +202,7 @@ class MainWindow:
 
         # Buy2方物品（支持NBT标签 + 选择按钮）
         ttk.Label(self.trade_edit_frame, text="Buy2方物品ID:").grid(row=3, column=0, padx=5, pady=5, sticky=tk.W)
-        ttk.Label(self.trade_edit_frame, text="(默认空气)").grid(row=3, column=4, padx=5, pady=5, sticky=tk.W)
+        ttk.Label(self.trade_edit_frame, text="").grid(row=3, column=4, padx=5, pady=5, sticky=tk.W)
         self.buy2_id = ttk.Entry(self.trade_edit_frame, width=40)
         self.buy2_id.grid(row=3, column=1, padx=5, pady=5, columnspan=2)
         self.buy2_id.insert(0, "minecraft:air")
@@ -224,6 +224,13 @@ class MainWindow:
         self.sell_id = ttk.Entry(self.trade_edit_frame, width=40)
         self.sell_id.grid(row=4, column=1, padx=5, pady=5, columnspan=2)
         self.sell_id.insert(0, "minecraft:grass_block")
+        # Sell选择按钮
+        self.sell_select_btn = ttk.Button(
+            self.trade_edit_frame, 
+            text="选择", 
+            command=lambda: self._open_item_selector(target="sell")
+        )
+        self.sell_select_btn.grid(row=4, column=3, padx=2, pady=5, sticky=tk.W)
         # Sell数量输入框
         ttk.Label(self.trade_edit_frame, text="数量:").grid(row=4, column=4, padx=5, pady=5, sticky=tk.W)
         self.sell_count = ttk.Entry(self.trade_edit_frame, width=10)
@@ -664,6 +671,9 @@ class MainWindow:
         elif self.selector_target == "buy2":
             self.buy2_id.delete(0, tk.END)
             self.buy2_id.insert(0, selected_item_id)
+        elif self.selector_target == "sell":  # 新增Sell方的处理逻辑
+            self.sell_id.delete(0, tk.END)
+            self.sell_id.insert(0, selected_item_id)
 
         # 关闭弹窗
         self.selector_win.destroy()
