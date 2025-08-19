@@ -1,42 +1,42 @@
 [
   {
-    "ID": "acacia-boat",
+    "ID": "acacia_boat",
     "Name": "金合欢木船"
   },
   {
-    "ID": "acacia-boat-with-chest",
+    "ID": "acacia_chest_boat",
     "Name": "金合欢木运输船"
   },
   {
-    "ID": "armor-stand",
+    "ID": "armor_stand",
     "Name": "盔甲架"
   },
   {
-    "ID": "bamboo-raft",
+    "ID": "bamboo_raft",
     "Name": "竹筏"
   },
   {
-    "ID": "bamboo-raft-with-chest",
+    "ID": "bamboo_chest_raft",
     "Name": "运输竹筏"
   },
   {
-    "ID": "beetroot-seeds",
+    "ID": "beetroot_seeds",
     "Name": "甜菜种子"
   },
   {
-    "ID": "birch-boat",
+    "ID": "birch_boat",
     "Name": "白桦木船"
   },
   {
-    "ID": "birch-boat-with-chest",
+    "ID": "birch_chest_boat",
     "Name": "白桦木运输船"
   },
   {
-    "ID": "blue-egg",
+    "ID": "blue_egg",
     "Name": "蓝色鸡蛋"
   },
   {
-    "ID": "bottle-of-enchanting",
+    "ID": "experience_bottle",
     "Name": "附魔之瓶"
   },
   {
@@ -44,31 +44,31 @@
     "Name": "弓"
   },
   {
-    "ID": "brown-egg",
+    "ID": "brown_egg",
     "Name": "棕色鸡蛋"
   },
   {
-    "ID": "axolotl-bucket",
+    "ID": "axolotl_bucket",
     "Name": "美西螈桶"
   },
   {
-    "ID": "bucket-of-cod",
+    "ID": "cod_bucket",
     "Name": "鳕鱼桶"
   },
   {
-    "ID": "bucket-of-pufferfish",
+    "ID": "pufferfish_bucket",
     "Name": "河豚桶"
   },
   {
-    "ID": "bucket-of-salmon",
+    "ID": "salmon_bucket",
     "Name": "鲑鱼桶"
   },
   {
-    "ID": "bucket-of-tadpole",
+    "ID": "tadpole_bucket",
     "Name": "蝌蚪桶"
   },
   {
-    "ID": "bucket-of-tropical-fish",
+    "ID": "tropical_fish_bucket",
     "Name": "热带鱼桶"
   },
   {
@@ -76,15 +76,15 @@
     "Name": "胡萝卜"
   },
   {
-    "ID": "cherry-boat",
+    "ID": "cherry_boat",
     "Name": "樱花木船"
   },
   {
-    "ID": "cherry-boat-with-chest",
+    "ID": "cherry_chest_boat",
     "Name": "樱花木运输船"
   },
   {
-    "ID": "cocoa-beans",
+    "ID": "cocoa_beans",
     "Name": "可可豆"
   },
   {
@@ -92,11 +92,11 @@
     "Name": "弩"
   },
   {
-    "ID": "dark-oak-boat",
+    "ID": "dark_oak_boat",
     "Name": "深色橡木船"
   },
   {
-    "ID": "dark-oak-boat-with-chest",
+    "ID": "dark_oak_chest_boat",
     "Name": "深色橡木运输船"
   },
   {
@@ -104,51 +104,51 @@
     "Name": "鸡蛋"
   },
   {
-    "ID": "end-crystal",
+    "ID": "end_crystal",
     "Name": "末地水晶"
   },
   {
-    "ID": "ender-pearl",
+    "ID": "ender_pearl",
     "Name": "末影珍珠"
   },
   {
-    "ID": "ender-eye",
+    "ID": "ender_eye",
     "Name": "末影之眼"
   },
   {
-    "ID": "fire-charge",
+    "ID": "fire_charge",
     "Name": "火焰弹"
   },
   {
-    "ID": "firework-rocket",
+    "ID": "firework_rocket",
     "Name": "烟花火箭"
   },
   {
-    "ID": "fishing-rod",
+    "ID": "fishing_rod",
     "Name": "钓鱼竿"
   },
   {
-    "ID": "flint-and-steel",
+    "ID": "flint_and_steel",
     "Name": "打火石"
   },
   {
-    "ID": "glow-berries",
+    "ID": "glow_berries",
     "Name": "发光浆果"
   },
   {
-    "ID": "glow-item-frame",
+    "ID": "glow_item_frame",
     "Name": "荧光物品展示框"
   },
   {
-    "ID": "item-frame",
+    "ID": "item_frame",
     "Name": "物品展示框"
   },
   {
-    "ID": "jungle-boat",
+    "ID": "jungle_boat",
     "Name": "丛林木船"
   },
   {
-    "ID": "jungle-boat-with-chest",
+    "ID": "jungle_chest_boat",
     "Name": "丛林木运输船"
   },
   {
@@ -156,7 +156,7 @@
     "Name": "海带"
   },
   {
-    "ID": "lava-bucket",
+    "ID": "lava_bucket",
     "Name": "熔岩桶"
   },
   {
@@ -164,19 +164,19 @@
     "Name": "拴绳"
   },
   {
-    "ID": "awkward-lingering-potion",
+    "ID": "lingering_potion",
     "Name": "滞留药水"
   },
   {
-    "ID": "mangrove-boat",
+    "ID": "mangrove_boat",
     "Name": "红树木船"
   },
   {
-    "ID": "mangrove-boat-with-chest",
+    "ID": "mangrove_chest_boat",
     "Name": "红树木运输船"
   },
   {
-    "ID": "melon-seeds",
+    "ID": "melon_seeds",
     "Name": "西瓜种子"
   },
   {
@@ -184,35 +184,35 @@
     "Name": "矿车"
   },
   {
-    "ID": "minecart-with-chest",
+    "ID": "chest_minecart",
     "Name": "运输矿车"
   },
   {
-    "ID": "minecart-with-command-block",
+    "ID": "command_block_minecart",
     "Name": "命令方块矿车"
   },
   {
-    "ID": "minecart-with-furnace",
+    "ID": "furnace_minecart",
     "Name": "动力矿车"
   },
   {
-    "ID": "minecart-with-hopper",
+    "ID": "hopper_minecart",
     "Name": "漏斗矿车"
   },
   {
-    "ID": "minecart-with-tnt",
+    "ID": "tnt_minecart",
     "Name": "TNT矿车"
   },
   {
-    "ID": "nether-wart",
+    "ID": "nether_wart",
     "Name": "下界疣"
   },
   {
-    "ID": "oak-boat",
+    "ID": "oak_boat",
     "Name": "橡木船"
   },
   {
-    "ID": "boat-with-chest",
+    "ID": "oak_chest_boat",
     "Name": "橡木运输船"
   },
   {
@@ -220,15 +220,15 @@
     "Name": "画"
   },
   {
-    "ID": "pale-oak-boat",
+    "ID": "pale_oak_boat",
     "Name": "苍白橡木船"
   },
   {
-    "ID": "pale-oak-boat-with-chest",
+    "ID": "pale_oak_chest_boat",
     "Name": "苍白橡木运输船"
   },
   {
-    "ID": "pitcher-pod",
+    "ID": "pitcher_pod",
     "Name": "瓶子草荚果"
   },
   {
@@ -236,11 +236,11 @@
     "Name": "马铃薯"
   },
   {
-    "ID": "powder-snow-bucket",
+    "ID": "powder_snow_bucket",
     "Name": "细雪桶"
   },
   {
-    "ID": "pumpkin-seeds",
+    "ID": "pumpkin_seeds",
     "Name": "南瓜种子"
   },
   {
@@ -252,15 +252,15 @@
     "Name": "雪球"
   },
   {
-    "ID": "awkward-splash-potion",
+    "ID": "splash_potion",
     "Name": "喷溅药水"
   },
   {
-    "ID": "spruce-boat",
+    "ID": "spruce_boat",
     "Name": "云杉木船"
   },
   {
-    "ID": "spruce-boat-with-chest",
+    "ID": "spruce_chest_boat",
     "Name": "云杉木运输船"
   },
   {
@@ -268,11 +268,11 @@
     "Name": "线"
   },
   {
-    "ID": "berries",
+    "ID": "sweet_berries",
     "Name": "甜浆果"
   },
   {
-    "ID": "torchflower-seeds",
+    "ID": "torchflower_seeds",
     "Name": "火把花种子"
   },
   {
@@ -280,15 +280,15 @@
     "Name": "三叉戟"
   },
   {
-    "ID": "water-bucket",
+    "ID": "water_bucket",
     "Name": "水桶"
   },
   {
-    "ID": "seeds",
+    "ID": "wheat_seeds",
     "Name": "小麦种子"
   },
   {
-    "ID": "wind-charge",
+    "ID": "wind_charge",
     "Name": "风弹"
   },
   {
@@ -300,7 +300,7 @@
     "Name": "箭"
   },
   {
-    "ID": "baked-potato",
+    "ID": "baked_potato",
     "Name": "烤马铃薯"
   },
   {
@@ -308,23 +308,23 @@
     "Name": "甜菜根"
   },
   {
-    "ID": "beetroot-soup",
+    "ID": "beetroot_soup",
     "Name": "甜菜汤"
   },
   {
-    "ID": "black-dye",
+    "ID": "black_dye",
     "Name": "黑色染料"
   },
   {
-    "ID": "black-harness",
+    "ID": "black_harness",
     "Name": "黑色挽具"
   },
   {
-    "ID": "blue-dye",
+    "ID": "blue_dye",
     "Name": "蓝色染料"
   },
   {
-    "ID": "blue-harness",
+    "ID": "blue_harness",
     "Name": "蓝色挽具"
   },
   {
@@ -332,11 +332,11 @@
     "Name": "骨头"
   },
   {
-    "ID": "bone-meal",
+    "ID": "bone_meal",
     "Name": "骨粉"
   },
   {
-    "ID": "book-and-quill",
+    "ID": "writable_book",
     "Name": "书与笔"
   },
   {
@@ -348,11 +348,11 @@
     "Name": "面包"
   },
   {
-    "ID": "brown-dye",
+    "ID": "brown_dye",
     "Name": "棕色染料"
   },
   {
-    "ID": "brown-harness",
+    "ID": "brown_harness",
     "Name": "棕色挽具"
   },
   {
@@ -368,27 +368,27 @@
     "Name": "收纳袋"
   },
   {
-    "ID": "carrot-on-a-stick",
+    "ID": "carrot_on_a_stick",
     "Name": "胡萝卜钓竿"
   },
   {
-    "ID": "chain-boots",
+    "ID": "chainmail_boots",
     "Name": "锁链靴子"
   },
   {
-    "ID": "chain-chestplate",
+    "ID": "chainmail_chestplate",
     "Name": "锁链胸甲"
   },
   {
-    "ID": "chain-helmet",
+    "ID": "chainmail_helmet",
     "Name": "锁链头盔"
   },
   {
-    "ID": "chain-leggings",
+    "ID": "chainmail_leggings",
     "Name": "锁链护腿"
   },
   {
-    "ID": "chorus",
+    "ID": "chorus_fruit",
     "Name": "紫颂果"
   },
   {
@@ -396,67 +396,67 @@
     "Name": "指南针"
   },
   {
-    "ID": "copper-axe",
+    "ID": "copper_axe",
     "Name": "铜斧"
   },
   {
-    "ID": "copper-boots",
+    "ID": "copper_boots",
     "Name": "铜靴子"
   },
   {
-    "ID": "copper-chestplate",
+    "ID": "copper_chestplate",
     "Name": "铜胸甲"
   },
   {
-    "ID": "copper-helmet",
+    "ID": "copper_helmet",
     "Name": "铜头盔"
   },
   {
-    "ID": "copper-hoe",
+    "ID": "copper_hoe",
     "Name": "铜锄"
   },
   {
-    "ID": "copper-horse-armor",
+    "ID": "copper_horse_armor",
     "Name": "铜马铠"
   },
   {
-    "ID": "copper-leggings",
+    "ID": "copper_leggings",
     "Name": "铜护腿"
   },
   {
-    "ID": "copper-pickaxe",
+    "ID": "copper_pickaxe",
     "Name": "铜镐"
   },
   {
-    "ID": "copper-shovel",
+    "ID": "copper_shovel",
     "Name": "铜锹"
   },
   {
-    "ID": "copper-sword",
+    "ID": "copper_sword",
     "Name": "铜剑"
   },
   {
-    "ID": "cooked-chicken",
+    "ID": "cooked_chicken",
     "Name": "熟鸡肉"
   },
   {
-    "ID": "cooked-cod",
+    "ID": "cooked_cod",
     "Name": "熟鳕鱼"
   },
   {
-    "ID": "cooked-mutton",
+    "ID": "cooked_mutton",
     "Name": "熟羊肉"
   },
   {
-    "ID": "cooked-porkchop",
+    "ID": "cooked_porkchop",
     "Name": "熟猪排"
   },
   {
-    "ID": "cooked-rabbit",
+    "ID": "cooked_rabbit",
     "Name": "熟兔肉"
   },
   {
-    "ID": "cooked-salmon",
+    "ID": "cooked_salmon",
     "Name": "熟鲑鱼"
   },
   {
@@ -464,59 +464,59 @@
     "Name": "曲奇"
   },
   {
-    "ID": "cyan-dye",
+    "ID": "cyan_dye",
     "Name": "青色染料"
   },
   {
-    "ID": "cyan-harness",
+    "ID": "cyan_harness",
     "Name": "青色挽具"
   },
   {
-    "ID": "debug-stick",
+    "ID": "debug_stick",
     "Name": "调试棒"
   },
   {
-    "ID": "diamond-axe",
+    "ID": "diamond_axe",
     "Name": "钻石斧"
   },
   {
-    "ID": "diamond-boots",
+    "ID": "diamond_boots",
     "Name": "钻石靴子"
   },
   {
-    "ID": "diamond-chestplate",
+    "ID": "diamond_chestplate",
     "Name": "钻石胸甲"
   },
   {
-    "ID": "diamond-helmet",
+    "ID": "diamond_helmet",
     "Name": "钻石头盔"
   },
   {
-    "ID": "diamond-hoe",
+    "ID": "diamond_hoe",
     "Name": "钻石锄"
   },
   {
-    "ID": "diamond-horse-armor",
+    "ID": "diamond_horse_armor",
     "Name": "钻石马铠"
   },
   {
-    "ID": "diamond-leggings",
+    "ID": "diamond_leggings",
     "Name": "钻石护腿"
   },
   {
-    "ID": "diamond-pickaxe",
+    "ID": "diamond_pickaxe",
     "Name": "钻石镐"
   },
   {
-    "ID": "diamond-shovel",
+    "ID": "diamond_shovel",
     "Name": "钻石锹"
   },
   {
-    "ID": "diamond-sword",
+    "ID": "diamond_sword",
     "Name": "钻石剑"
   },
   {
-    "ID": "dried-kelp",
+    "ID": "dried_kelp",
     "Name": "干海带"
   },
   {
@@ -524,91 +524,91 @@
     "Name": "鞘翅"
   },
   {
-    "ID": "empty-locator-map",
+    "ID": "map",
     "Name": "空地图"
   },
   {
-    "ID": "enchanted-apple",
+    "ID": "enchanted_golden_apple",
     "Name": "附魔金苹果"
   },
   {
-    "ID": "goat-horn",
+    "ID": "goat_horn",
     "Name": "山羊角"
   },
   {
-    "ID": "empty-bottle",
+    "ID": "glass_bottle",
     "Name": "玻璃瓶"
   },
   {
-    "ID": "glow-ink-sac",
+    "ID": "glow_ink_sac",
     "Name": "荧光墨囊"
   },
   {
-    "ID": "gold-ingot",
+    "ID": "gold_ingot",
     "Name": "金锭"
   },
   {
-    "ID": "golden-apple",
+    "ID": "golden_apple",
     "Name": "金苹果"
   },
   {
-    "ID": "golden-axe",
+    "ID": "golden_axe",
     "Name": "金斧"
   },
   {
-    "ID": "golden-boots",
+    "ID": "golden_boots",
     "Name": "金靴子"
   },
   {
-    "ID": "golden-carrot",
+    "ID": "golden_carrot",
     "Name": "金胡萝卜"
   },
   {
-    "ID": "golden-chestplate",
+    "ID": "golden_chestplate",
     "Name": "金胸甲"
   },
   {
-    "ID": "golden-helmet",
+    "ID": "golden_helmet",
     "Name": "金头盔"
   },
   {
-    "ID": "golden-hoe",
+    "ID": "golden_hoe",
     "Name": "金锄"
   },
   {
-    "ID": "gold-horse-armor",
+    "ID": "golden_horse_armor",
     "Name": "金马铠"
   },
   {
-    "ID": "golden-leggings",
+    "ID": "golden_leggings",
     "Name": "金护腿"
   },
   {
-    "ID": "golden-pickaxe",
+    "ID": "golden_pickaxe",
     "Name": "金镐"
   },
   {
-    "ID": "golden-shovel",
+    "ID": "golden_shovel",
     "Name": "金锹"
   },
   {
-    "ID": "golden-sword",
+    "ID": "golden_sword",
     "Name": "金剑"
   },
   {
-    "ID": "gray-dye",
+    "ID": "gray_dye",
     "Name": "灰色染料"
   },
   {
-    "ID": "gray-harness",
+    "ID": "gray_harness",
     "Name": "灰色挽具"
   },
   {
-    "ID": "green-dye",
+    "ID": "green_dye",
     "Name": "绿色染料"
   },
   {
-    "ID": "green-harness",
+    "ID": "green_harness",
     "Name": "绿色挽具"
   },
   {
@@ -616,111 +616,111 @@
     "Name": "蜜脾"
   },
   {
-    "ID": "honey",
+    "ID": "honey_bottle",
     "Name": "蜂蜜瓶"
   },
   {
-    "ID": "ink-sac",
+    "ID": "ink_sac",
     "Name": "墨囊"
   },
   {
-    "ID": "axe",
+    "ID": "iron_axe",
     "Name": "铁斧"
   },
   {
-    "ID": "boots",
+    "ID": "iron_boots",
     "Name": "铁靴子"
   },
   {
-    "ID": "chestplate",
+    "ID": "iron_chestplate",
     "Name": "铁胸甲"
   },
   {
-    "ID": "helmet",
+    "ID": "iron_helmet",
     "Name": "铁头盔"
   },
   {
-    "ID": "hoe",
+    "ID": "iron_hoe",
     "Name": "铁锄"
   },
   {
-    "ID": "horse-armor",
+    "ID": "iron_horse_armor",
     "Name": "铁马铠"
   },
   {
-    "ID": "iron-ingot",
+    "ID": "iron_ingot",
     "Name": "铁锭（治疗铁傀儡）"
   },
   {
-    "ID": "iron-leggings",
+    "ID": "iron_leggings",
     "Name": "铁护腿"
   },
   {
-    "ID": "iron-pickaxe",
+    "ID": "iron_pickaxe",
     "Name": "铁镐"
   },
   {
-    "ID": "iron-shovel",
+    "ID": "iron_shovel",
     "Name": "铁锹"
   },
   {
-    "ID": "iron-sword",
+    "ID": "iron_sword",
     "Name": "铁剑"
   },
   {
-    "ID": "knowledge-book",
+    "ID": "knowledge_book",
     "Name": "知识之书"
   },
   {
-    "ID": "lapis-lazuli",
+    "ID": "lapis_lazuli",
     "Name": "青金石（作为染料）"
   },
   {
-    "ID": "leather-boots",
+    "ID": "leather_boots",
     "Name": "皮革靴子"
   },
   {
-    "ID": "leather-cap",
+    "ID": "leather_helmet",
     "Name": "皮革帽子"
   },
   {
-    "ID": "leather-horse-armor",
+    "ID": "leather_horse_armor",
     "Name": "皮革马铠"
   },
   {
-    "ID": "leather-leggings",
+    "ID": "leather_leggings",
     "Name": "皮革裤子"
   },
   {
-    "ID": "leather-chestplate",
+    "ID": "leather_chestplate",
     "Name": "皮革外套"
   },
   {
-    "ID": "light-blue-dye",
+    "ID": "light_blue_dye",
     "Name": "淡蓝色染料"
   },
   {
-    "ID": "light-blue-harness",
+    "ID": "light_blue_harness",
     "Name": "淡蓝色挽具"
   },
   {
-    "ID": "light-gray-dye",
+    "ID": "light_gray_dye",
     "Name": "淡灰色染料"
   },
   {
-    "ID": "light-gray-harness",
+    "ID": "light_gray_harness",
     "Name": "淡灰色挽具"
   },
   {
-    "ID": "lime-dye",
+    "ID": "lime_dye",
     "Name": "黄绿色染料"
   },
   {
-    "ID": "lime-harness",
+    "ID": "lime_harness",
     "Name": "黄绿色挽具"
   },
   {
-    "ID": "lodestone-compass",
+    "ID": "lodestone_compass",
     "Name": "磁石指针"
   },
   {
@@ -728,183 +728,103 @@
     "Name": "重锤"
   },
   {
-    "ID": "magenta-dye",
+    "ID": "magenta_dye",
     "Name": "品红色染料"
   },
   {
-    "ID": "magenta-harness",
+    "ID": "magenta_harness",
     "Name": "品红色挽具"
   },
   {
-    "ID": "buried-treasure-map",
+    "ID": "filled_map",
     "Name": "地图"
   },
   {
-    "ID": "melon",
+    "ID": "melon_slice",
     "Name": "西瓜片"
   },
   {
-    "ID": "milk",
+    "ID": "milk_bucket",
     "Name": "奶桶"
   },
   {
-    "ID": "mushroom-stew",
+    "ID": "mushroom_stew",
     "Name": "蘑菇煲"
   },
   {
-    "ID": "music-disc-5",
+    "ID": "music_disc_lava_chicken",
     "Name": "音乐唱片"
   },
   {
-    "ID": "music-disc-11",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-13",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-blocks",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-cat",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-chirp",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-creator",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-creator-music-box",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-far",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-lava-chicken",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-mall",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-mellohi",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-otherside",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-pigstep",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-precipice",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-relic",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-stal",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-strad",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-tears",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-wait",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "music-disc-ward",
-    "Name": "音乐唱片"
-  },
-  {
-    "ID": "name-tag",
+    "ID": "name_tag",
     "Name": "命名牌"
   },
   {
-    "ID": "netherite-axe",
+    "ID": "netherite_axe",
     "Name": "下界合金斧"
   },
   {
-    "ID": "netherite-boots",
+    "ID": "netherite_boots",
     "Name": "下界合金靴子"
   },
   {
-    "ID": "netherite-chestplate",
+    "ID": "netherite_chestplate",
     "Name": "下界合金胸甲"
   },
   {
-    "ID": "netherite-helmet",
+    "ID": "netherite_helmet",
     "Name": "下界合金头盔"
   },
   {
-    "ID": "netherite-hoe",
+    "ID": "netherite_hoe",
     "Name": "下界合金锄"
   },
   {
-    "ID": "netherite-leggings",
+    "ID": "netherite_leggings",
     "Name": "下界合金护腿"
   },
   {
-    "ID": "netherite-pickaxe",
+    "ID": "netherite_pickaxe",
     "Name": "下界合金镐"
   },
   {
-    "ID": "netherite-shovel",
+    "ID": "netherite_shovel",
     "Name": "下界合金锹"
   },
   {
-    "ID": "netherite-sword",
+    "ID": "netherite_sword",
     "Name": "下界合金剑"
   },
   {
-    "ID": "ominous-bottle",
+    "ID": "ominous_bottle",
     "Name": "不祥之瓶"
   },
   {
-    "ID": "ominous-trial-key",
+    "ID": "ominous_trial_key",
     "Name": "不祥试炼钥匙"
   },
   {
-    "ID": "orange-dye",
+    "ID": "orange_dye",
     "Name": "橙色染料"
   },
   {
-    "ID": "orange-harness",
+    "ID": "orange_harness",
     "Name": "橙色挽具"
   },
   {
-    "ID": "pink-dye",
+    "ID": "pink_dye",
     "Name": "粉红色染料"
   },
   {
-    "ID": "pink-harness",
+    "ID": "pink_harness",
     "Name": "粉红色挽具"
   },
   {
-    "ID": "poison-potato",
+    "ID": "poisonous_potato",
     "Name": "毒马铃薯"
   },
   {
-    "ID": "awkward-potion",
+    "ID": "potion",
     "Name": "药水"
   },
   {
@@ -912,19 +832,19 @@
     "Name": "河豚"
   },
   {
-    "ID": "pumpkin-pie",
+    "ID": "pumpkin_pie",
     "Name": "南瓜派"
   },
   {
-    "ID": "purple-dye",
+    "ID": "purple_dye",
     "Name": "紫色染料"
   },
   {
-    "ID": "purple-harness",
+    "ID": "purple_harness",
     "Name": "紫色挽具"
   },
   {
-    "ID": "rabbit-stew",
+    "ID": "rabbit_stew",
     "Name": "兔肉煲"
   },
   {
@@ -952,23 +872,23 @@
     "Name": "生兔肉"
   },
   {
-    "ID": "raw-salmon",
+    "ID": "salmon",
     "Name": "生鲑鱼"
   },
   {
-    "ID": "recovery-compass",
+    "ID": "recovery_compass",
     "Name": "追溯指针"
   },
   {
-    "ID": "red-dye",
+    "ID": "red_dye",
     "Name": "红色染料"
   },
   {
-    "ID": "red-harness",
+    "ID": "red_harness",
     "Name": "红色挽具"
   },
   {
-    "ID": "rotten-flesh",
+    "ID": "rotten_flesh",
     "Name": "腐肉"
   },
   {
@@ -984,11 +904,11 @@
     "Name": "盾牌"
   },
   {
-    "ID": "spectral-arrow",
+    "ID": "spectral_arrow",
     "Name": "光灵箭"
   },
   {
-    "ID": "spider-eye",
+    "ID": "spider_eye",
     "Name": "蜘蛛眼"
   },
   {
@@ -996,27 +916,27 @@
     "Name": "望远镜"
   },
   {
-    "ID": "cooked-beef",
+    "ID": "cooked_beef",
     "Name": "牛排"
   },
   {
-    "ID": "stone-axe",
+    "ID": "stone_axe",
     "Name": "石斧"
   },
   {
-    "ID": "stone-hoe",
+    "ID": "stone_hoe",
     "Name": "石锄"
   },
   {
-    "ID": "stone-pickaxe",
+    "ID": "stone_pickaxe",
     "Name": "石镐"
   },
   {
-    "ID": "stone-shovel",
+    "ID": "stone_shovel",
     "Name": "石锹"
   },
   {
-    "ID": "stone-sword",
+    "ID": "stone_sword",
     "Name": "石剑"
   },
   {
@@ -1024,31 +944,31 @@
     "Name": "糖"
   },
   {
-    "ID": "suspicious-stew",
+    "ID": "suspicious_stew",
     "Name": "谜之炖菜"
   },
   {
-    "ID": "arrow-of-splashing",
+    "ID": "tipped_arrow",
     "Name": "药箭"
   },
   {
-    "ID": "totem-of-undying",
+    "ID": "totem_of_undying",
     "Name": "不死图腾"
   },
   {
-    "ID": "trial-key",
+    "ID": "trial_key",
     "Name": "试炼钥匙"
   },
   {
-    "ID": "clownfish",
+    "ID": "tropical_fish",
     "Name": "热带鱼"
   },
   {
-    "ID": "turtle-helmet",
+    "ID": "turtle_helmet",
     "Name": "海龟壳"
   },
   {
-    "ID": "warped-fungus-on-a-stick",
+    "ID": "warped_fungus_on_a_stick",
     "Name": "诡异菌钓竿"
   },
   {
@@ -1056,87 +976,87 @@
     "Name": "小麦"
   },
   {
-    "ID": "all-dyes",
+    "ID": "white_dye",
     "Name": "白色染料"
   },
   {
-    "ID": "white-harness",
+    "ID": "white_harness",
     "Name": "白色挽具"
   },
   {
-    "ID": "wolf-armor",
+    "ID": "wolf_armor",
     "Name": "狼铠"
   },
   {
-    "ID": "wooden-axe",
+    "ID": "wooden_axe",
     "Name": "木斧"
   },
   {
-    "ID": "wooden-hoe",
+    "ID": "wooden_hoe",
     "Name": "木锄"
   },
   {
-    "ID": "wooden-pickaxe",
+    "ID": "wooden_pickaxe",
     "Name": "木镐"
   },
   {
-    "ID": "wooden-shovel",
+    "ID": "wooden_shovel",
     "Name": "木锹"
   },
   {
-    "ID": "wooden-sword",
+    "ID": "wooden_sword",
     "Name": "木剑"
   },
   {
-    "ID": "written-book",
+    "ID": "written_book",
     "Name": "成书"
   },
   {
-    "ID": "yellow-dye",
+    "ID": "yellow_dye",
     "Name": "黄色染料"
   },
   {
-    "ID": "yellow-harness",
+    "ID": "yellow_harness",
     "Name": "黄色挽具"
   },
   {
-    "ID": "amethyst-shard",
+    "ID": "amethyst_shard",
     "Name": "紫水晶碎片"
   },
   {
-    "ID": "angler-pottery-shard",
+    "ID": "angler_pottery_sherd",
     "Name": "垂钓纹样陶片"
   },
   {
-    "ID": "archer-pottery-shard",
+    "ID": "archer_pottery_sherd",
     "Name": "弓箭纹样陶片"
   },
   {
-    "ID": "armadillo-scute",
+    "ID": "armadillo_scute",
     "Name": "犰狳鳞甲"
   },
   {
-    "ID": "arms-up-pottery-shard",
+    "ID": "arms_up_pottery_sherd",
     "Name": "举臂纹样陶片"
   },
   {
-    "ID": "all-banner-patterns",
+    "ID": "all_banner_patterns",
     "Name": "旗帜图案"
   },
   {
-    "ID": "blade-pottery-shard",
+    "ID": "blade_pottery_sherd",
     "Name": "利刃纹样陶片"
   },
   {
-    "ID": "blaze-powder",
+    "ID": "blaze_powder",
     "Name": "烈焰粉"
   },
   {
-    "ID": "blaze-rod",
+    "ID": "blaze_rod",
     "Name": "烈焰棒"
   },
   {
-    "ID": "breeze-rod",
+    "ID": "breeze_rod",
     "Name": "旋风棒"
   },
   {
@@ -1144,7 +1064,7 @@
     "Name": "书"
   },
   {
-    "ID": "brewer-pottery-shard",
+    "ID": "brewer_pottery_sherd",
     "Name": "佳酿纹样陶片"
   },
   {
@@ -1152,7 +1072,7 @@
     "Name": "红砖"
   },
   {
-    "ID": "burn-pottery-shard",
+    "ID": "burn_pottery_sherd",
     "Name": "烈焰纹样陶片"
   },
   {
@@ -1160,7 +1080,7 @@
     "Name": "木炭"
   },
   {
-    "ID": "clay",
+    "ID": "clay_ball",
     "Name": "黏土球"
   },
   {
@@ -1172,15 +1092,15 @@
     "Name": "煤炭"
   },
   {
-    "ID": "copper-ingot",
+    "ID": "copper_ingot",
     "Name": "铜锭"
   },
   {
-    "ID": "copper-nugget",
+    "ID": "copper_nugget",
     "Name": "铜粒"
   },
   {
-    "ID": "danger-pottery-shard",
+    "ID": "danger_pottery_sherd",
     "Name": "危机纹样陶片"
   },
   {
@@ -1188,15 +1108,15 @@
     "Name": "钻石"
   },
   {
-    "ID": "disc-fragment",
+    "ID": "disc_fragment_5",
     "Name": "唱片残片"
   },
   {
-    "ID": "dragon's-breath",
+    "ID": "dragon_breath",
     "Name": "龙息"
   },
   {
-    "ID": "echo-shard",
+    "ID": "echo_shard",
     "Name": "回响碎片"
   },
   {
@@ -1204,11 +1124,11 @@
     "Name": "绿宝石"
   },
   {
-    "ID": "enchanted-book",
+    "ID": "enchanted_book",
     "Name": "附魔书"
   },
   {
-    "ID": "explorer-pottery-shard",
+    "ID": "explorer_pottery_sherd",
     "Name": "探险纹样陶片"
   },
   {
@@ -1216,11 +1136,11 @@
     "Name": "羽毛"
   },
   {
-    "ID": "fermented-spider-eye",
+    "ID": "fermented_spider_eye",
     "Name": "发酵蛛眼"
   },
   {
-    "ID": "firework-star",
+    "ID": "firework_star",
     "Name": "烟火之星"
   },
   {
@@ -1228,27 +1148,27 @@
     "Name": "燧石"
   },
   {
-    "ID": "flow-pottery-shard",
+    "ID": "flow_pottery_sherd",
     "Name": "涡流纹样陶片"
   },
   {
-    "ID": "friend-pottery-shard",
+    "ID": "friend_pottery_sherd",
     "Name": "挚友纹样陶片"
   },
   {
-    "ID": "ghast-tear",
+    "ID": "ghast_tear",
     "Name": "恶魂之泪"
   },
   {
-    "ID": "glistering-melon",
+    "ID": "glistering_melon_slice",
     "Name": "闪烁的西瓜片"
   },
   {
-    "ID": "glowstone-dust",
+    "ID": "glowstone_dust",
     "Name": "荧石粉"
   },
   {
-    "ID": "gold-nugget",
+    "ID": "gold_nugget",
     "Name": "金粒"
   },
   {
@@ -1256,27 +1176,27 @@
     "Name": "火药"
   },
   {
-    "ID": "guster-pottery-shard",
+    "ID": "guster_pottery_sherd",
     "Name": "旋风纹样陶片"
   },
   {
-    "ID": "heart-of-the-sea",
+    "ID": "heart_of_the_sea",
     "Name": "海洋之心"
   },
   {
-    "ID": "heart-pottery-shard",
+    "ID": "heart_pottery_sherd",
     "Name": "爱心纹样陶片"
   },
   {
-    "ID": "heartbreak-pottery-shard",
+    "ID": "heartbreak_pottery_sherd",
     "Name": "心碎纹样陶片"
   },
   {
-    "ID": "howl-pottery-shard",
+    "ID": "howl_pottery_sherd",
     "Name": "狼嚎纹样陶片"
   },
   {
-    "ID": "iron-nugget",
+    "ID": "iron_nugget",
     "Name": "铁粒"
   },
   {
@@ -1284,39 +1204,39 @@
     "Name": "皮革"
   },
   {
-    "ID": "magma-cream",
+    "ID": "magma_cream",
     "Name": "岩浆膏"
   },
   {
-    "ID": "miner-pottery-shard",
+    "ID": "miner_pottery_sherd",
     "Name": "采矿纹样陶片"
   },
   {
-    "ID": "mourner-pottery-shard",
+    "ID": "mourner_pottery_sherd",
     "Name": "悲恸纹样陶片"
   },
   {
-    "ID": "nautilus-shell",
+    "ID": "nautilus_shell",
     "Name": "鹦鹉螺壳"
   },
   {
-    "ID": "nether-brick",
+    "ID": "nether_brick",
     "Name": "下界砖"
   },
   {
-    "ID": "nether-quartz",
+    "ID": "quartz",
     "Name": "下界石英"
   },
   {
-    "ID": "nether-star",
+    "ID": "nether_star",
     "Name": "下界之星"
   },
   {
-    "ID": "netherite-ingot",
+    "ID": "netherite_ingot",
     "Name": "下界合金锭"
   },
   {
-    "ID": "netherite-scrap",
+    "ID": "netherite_scrap",
     "Name": "下界合金碎片"
   },
   {
@@ -1324,159 +1244,159 @@
     "Name": "纸"
   },
   {
-    "ID": "phantom-membrane",
+    "ID": "phantom_membrane",
     "Name": "幻翼膜"
   },
   {
-    "ID": "plenty-pottery-shard",
+    "ID": "plenty_pottery_sherd",
     "Name": "富饶纹样陶片"
   },
   {
-    "ID": "popped-chorus-fruit",
+    "ID": "popped_chorus_fruit",
     "Name": "爆裂紫颂果"
   },
   {
-    "ID": "prismarine-crystals",
+    "ID": "prismarine_crystals",
     "Name": "海晶砂粒"
   },
   {
-    "ID": "prismarine-shard",
+    "ID": "prismarine_shard",
     "Name": "海晶碎片"
   },
   {
-    "ID": "prize-pottery-shard",
+    "ID": "prize_pottery_sherd",
     "Name": "珍宝纹样陶片"
   },
   {
-    "ID": "rabbit-hide",
+    "ID": "rabbit_hide",
     "Name": "兔子皮"
   },
   {
-    "ID": "rabbit's-foot",
+    "ID": "rabbit_foot",
     "Name": "兔子脚"
   },
   {
-    "ID": "raw-copper",
+    "ID": "raw_copper",
     "Name": "粗铜"
   },
   {
-    "ID": "raw-gold",
+    "ID": "raw_gold",
     "Name": "粗金"
   },
   {
-    "ID": "raw-iron",
+    "ID": "raw_iron",
     "Name": "粗铁"
   },
   {
-    "ID": "resin-brick",
+    "ID": "resin_brick",
     "Name": "树脂砖"
   },
   {
-    "ID": "resin-clump",
+    "ID": "resin_clump",
     "Name": "树脂团"
   },
   {
-    "ID": "scrape-pottery-shard",
+    "ID": "scrape_pottery_sherd",
     "Name": "刮削纹样陶片"
   },
   {
-    "ID": "sheaf-pottery-shard",
+    "ID": "sheaf_pottery_sherd",
     "Name": "麦捆纹样陶片"
   },
   {
-    "ID": "shelter-pottery-shard",
+    "ID": "shelter_pottery_sherd",
     "Name": "树荫纹样陶片"
   },
   {
-    "ID": "shulker-shell",
+    "ID": "shulker_shell",
     "Name": "潜影壳"
   },
   {
-    "ID": "skull-pottery-shard",
+    "ID": "skull_pottery_sherd",
     "Name": "头颅纹样陶片"
   },
   {
-    "ID": "slimeball",
+    "ID": "slime_ball",
     "Name": "黏液球"
   },
   {
-    "ID": "netherite-upgrade",
+    "ID": "netherite_upgrade",
     "Name": "锻造模板"
   },
   {
-    "ID": "bolt-armor-trim",
+    "ID": "bolt_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "coast-armor-trim",
+    "ID": "coast_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "dune-armor-trim",
+    "ID": "dune_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "eye-armor-trim",
+    "ID": "eye_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "flow-armor-trim",
+    "ID": "flow_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "host-armor-trim",
+    "ID": "host_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "raiser-armor-trim",
+    "ID": "raiser_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "rib-armor-trim",
+    "ID": "rib_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "sentry-armor-trim",
+    "ID": "sentry_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "armor-trim",
+    "ID": "armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "silence-armor-trim",
+    "ID": "silence_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "snout-armor-trim",
+    "ID": "snout_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "spire-armor-trim",
+    "ID": "spire_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "tide-armor-trim",
+    "ID": "tide_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "vex-armor-trim",
+    "ID": "vex_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "ward-armor-trim",
+    "ID": "ward_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "wayfinder-armor-trim",
+    "ID": "wayfinder_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "wild-armor-trim",
+    "ID": "wild_armor_trim",
     "Name": "锻造模板"
   },
   {
-    "ID": "snort-pottery-shard",
+    "ID": "snort_pottery_sherd",
     "Name": "嗅探纹样陶片"
   },
   {
@@ -1484,347 +1404,347 @@
     "Name": "木棍"
   },
   {
-    "ID": "scute",
+    "ID": "turtle_scute",
     "Name": "海龟鳞甲"
   },
   {
-    "ID": "allay-spawn-egg",
+    "ID": "allay_spawn_egg",
     "Name": "悦灵刷怪蛋"
   },
   {
-    "ID": "armadillo-spawn-egg",
+    "ID": "armadillo_spawn_egg",
     "Name": "犰狳刷怪蛋"
   },
   {
-    "ID": "axolotl-spawn-egg",
+    "ID": "axolotl_spawn_egg",
     "Name": "美西螈刷怪蛋"
   },
   {
-    "ID": "bat-spawn-egg",
+    "ID": "bat_spawn_egg",
     "Name": "蝙蝠刷怪蛋"
   },
   {
-    "ID": "bee-spawn-egg",
+    "ID": "bee_spawn_egg",
     "Name": "蜜蜂刷怪蛋"
   },
   {
-    "ID": "blaze-spawn-egg",
+    "ID": "blaze_spawn_egg",
     "Name": "烈焰人刷怪蛋"
   },
   {
-    "ID": "bogged-spawn-egg",
+    "ID": "bogged_spawn_egg",
     "Name": "沼骸刷怪蛋"
   },
   {
-    "ID": "breeze-spawn-egg",
+    "ID": "breeze_spawn_egg",
     "Name": "旋风人刷怪蛋"
   },
   {
-    "ID": "camel-spawn-egg",
+    "ID": "camel_spawn_egg",
     "Name": "骆驼刷怪蛋"
   },
   {
-    "ID": "cat-spawn-egg",
+    "ID": "cat_spawn_egg",
     "Name": "猫刷怪蛋"
   },
   {
-    "ID": "cave-spider-spawn-egg",
+    "ID": "cave_spider_spawn_egg",
     "Name": "洞穴蜘蛛刷怪蛋"
   },
   {
-    "ID": "chicken-spawn-egg",
+    "ID": "chicken_spawn_egg",
     "Name": "鸡刷怪蛋"
   },
   {
-    "ID": "cod-spawn-egg",
+    "ID": "cod_spawn_egg",
     "Name": "鳕鱼刷怪蛋"
   },
   {
-    "ID": "copper-golem-spawn-egg",
+    "ID": "copper_golem_spawn_egg",
     "Name": "铜傀儡刷怪蛋"
   },
   {
-    "ID": "cow-spawn-egg",
+    "ID": "cow_spawn_egg",
     "Name": "牛刷怪蛋"
   },
   {
-    "ID": "creaking-spawn-egg",
+    "ID": "creaking_spawn_egg",
     "Name": "嘎枝刷怪蛋"
   },
   {
-    "ID": "creeper-spawn-egg",
+    "ID": "creeper_spawn_egg",
     "Name": "苦力怕刷怪蛋"
   },
   {
-    "ID": "dolphin-spawn-egg",
+    "ID": "dolphin_spawn_egg",
     "Name": "海豚刷怪蛋"
   },
   {
-    "ID": "donkey-spawn-egg",
+    "ID": "donkey_spawn_egg",
     "Name": "驴刷怪蛋"
   },
   {
-    "ID": "drowned-spawn-egg",
+    "ID": "drowned_spawn_egg",
     "Name": "溺尸刷怪蛋"
   },
   {
-    "ID": "elder-guardian-spawn-egg",
+    "ID": "elder_guardian_spawn_egg",
     "Name": "远古守卫者刷怪蛋"
   },
   {
-    "ID": "ender-dragon-spawn-egg",
+    "ID": "ender_dragon_spawn_egg",
     "Name": "末影龙刷怪蛋"
   },
   {
-    "ID": "enderman-spawn-egg",
+    "ID": "enderman_spawn_egg",
     "Name": "末影人刷怪蛋"
   },
   {
-    "ID": "endermite-spawn-egg",
+    "ID": "endermite_spawn_egg",
     "Name": "末影螨刷怪蛋"
   },
   {
-    "ID": "evoker-spawn-egg",
+    "ID": "evoker_spawn_egg",
     "Name": "唤魔者刷怪蛋"
   },
   {
-    "ID": "fox-spawn-egg",
+    "ID": "fox_spawn_egg",
     "Name": "狐狸刷怪蛋"
   },
   {
-    "ID": "frog-spawn-egg",
+    "ID": "frog_spawn_egg",
     "Name": "青蛙刷怪蛋"
   },
   {
-    "ID": "ghast-spawn-egg",
+    "ID": "ghast_spawn_egg",
     "Name": "恶魂刷怪蛋"
   },
   {
-    "ID": "glow-squid-spawn-egg",
+    "ID": "glow_squid_spawn_egg",
     "Name": "发光鱿鱼刷怪蛋"
   },
   {
-    "ID": "goat-spawn-egg",
+    "ID": "goat_spawn_egg",
     "Name": "山羊刷怪蛋"
   },
   {
-    "ID": "guardian-spawn-egg",
+    "ID": "guardian_spawn_egg",
     "Name": "守卫者刷怪蛋"
   },
   {
-    "ID": "happy-ghast-spawn-egg",
+    "ID": "happy_ghast_spawn_egg",
     "Name": "快乐恶魂刷怪蛋"
   },
   {
-    "ID": "hoglin-spawn-egg",
+    "ID": "hoglin_spawn_egg",
     "Name": "疣猪兽刷怪蛋"
   },
   {
-    "ID": "horse-spawn-egg",
+    "ID": "horse_spawn_egg",
     "Name": "马刷怪蛋"
   },
   {
-    "ID": "husk-spawn-egg",
+    "ID": "husk_spawn_egg",
     "Name": "尸壳刷怪蛋"
   },
   {
-    "ID": "iron-golem-spawn-egg",
+    "ID": "iron_golem_spawn_egg",
     "Name": "铁傀儡刷怪蛋"
   },
   {
-    "ID": "llama-spawn-egg",
+    "ID": "llama_spawn_egg",
     "Name": "羊驼刷怪蛋"
   },
   {
-    "ID": "magma-cube-spawn-egg",
+    "ID": "magma_cube_spawn_egg",
     "Name": "岩浆怪刷怪蛋"
   },
   {
-    "ID": "mooshroom-spawn-egg",
+    "ID": "mooshroom_spawn_egg",
     "Name": "哞菇刷怪蛋"
   },
   {
-    "ID": "mule-spawn-egg",
+    "ID": "mule_spawn_egg",
     "Name": "骡刷怪蛋"
   },
   {
-    "ID": "npc-spawn-egg",
+    "ID": "npc_spawn_egg",
     "Name": "NPC刷怪蛋"
   },
   {
-    "ID": "ocelot-spawn-egg",
+    "ID": "ocelot_spawn_egg",
     "Name": "豹猫刷怪蛋"
   },
   {
-    "ID": "panda-spawn-egg",
+    "ID": "panda_spawn_egg",
     "Name": "熊猫刷怪蛋"
   },
   {
-    "ID": "parrot-spawn-egg",
+    "ID": "parrot_spawn_egg",
     "Name": "鹦鹉刷怪蛋"
   },
   {
-    "ID": "phantom-spawn-egg",
+    "ID": "phantom_spawn_egg",
     "Name": "幻翼刷怪蛋"
   },
   {
-    "ID": "pig-spawn-egg",
+    "ID": "pig_spawn_egg",
     "Name": "猪刷怪蛋"
   },
   {
-    "ID": "piglin-spawn-egg",
+    "ID": "piglin_spawn_egg",
     "Name": "猪灵刷怪蛋"
   },
   {
-    "ID": "piglin-brute-spawn-egg",
+    "ID": "piglin_brute_spawn_egg",
     "Name": "猪灵蛮兵刷怪蛋"
   },
   {
-    "ID": "pillager-spawn-egg",
+    "ID": "pillager_spawn_egg",
     "Name": "掠夺者刷怪蛋"
   },
   {
-    "ID": "polar-bear-spawn-egg",
+    "ID": "polar_bear_spawn_egg",
     "Name": "北极熊刷怪蛋"
   },
   {
-    "ID": "pufferfish-spawn-egg",
+    "ID": "pufferfish_spawn_egg",
     "Name": "河豚刷怪蛋"
   },
   {
-    "ID": "rabbit-spawn-egg",
+    "ID": "rabbit_spawn_egg",
     "Name": "兔子刷怪蛋"
   },
   {
-    "ID": "ravager-spawn-egg",
+    "ID": "ravager_spawn_egg",
     "Name": "劫掠兽刷怪蛋"
   },
   {
-    "ID": "salmon-spawn-egg",
+    "ID": "salmon_spawn_egg",
     "Name": "鲑鱼刷怪蛋"
   },
   {
-    "ID": "sheep-spawn-egg",
+    "ID": "sheep_spawn_egg",
     "Name": "绵羊刷怪蛋"
   },
   {
-    "ID": "shulker-spawn-egg",
+    "ID": "shulker_spawn_egg",
     "Name": "潜影贝刷怪蛋"
   },
   {
-    "ID": "silverfish-spawn-egg",
+    "ID": "silverfish_spawn_egg",
     "Name": "蠹虫刷怪蛋"
   },
   {
-    "ID": "skeleton-horse-spawn-egg",
+    "ID": "skeleton_horse_spawn_egg",
     "Name": "骷髅马刷怪蛋"
   },
   {
-    "ID": "skeleton-spawn-egg",
+    "ID": "skeleton_spawn_egg",
     "Name": "骷髅刷怪蛋"
   },
   {
-    "ID": "slime-spawn-egg",
+    "ID": "slime_spawn_egg",
     "Name": "史莱姆刷怪蛋"
   },
   {
-    "ID": "sniffer-spawn-egg",
+    "ID": "sniffer_spawn_egg",
     "Name": "嗅探兽刷怪蛋"
   },
   {
-    "ID": "snow-golem-spawn-egg",
+    "ID": "snow_golem_spawn_egg",
     "Name": "雪傀儡刷怪蛋"
   },
   {
-    "ID": "spider-spawn-egg",
+    "ID": "spider_spawn_egg",
     "Name": "蜘蛛刷怪蛋"
   },
   {
-    "ID": "squid-spawn-egg",
+    "ID": "squid_spawn_egg",
     "Name": "鱿鱼刷怪蛋"
   },
   {
-    "ID": "stray-spawn-egg",
+    "ID": "stray_spawn_egg",
     "Name": "流浪者刷怪蛋"
   },
   {
-    "ID": "strider-spawn-egg",
+    "ID": "strider_spawn_egg",
     "Name": "炽足兽刷怪蛋"
   },
   {
-    "ID": "tadpole-spawn-egg",
+    "ID": "tadpole_spawn_egg",
     "Name": "蝌蚪刷怪蛋"
   },
   {
-    "ID": "trader-llama-spawn-egg",
+    "ID": "trader_llama_spawn_egg",
     "Name": "行商羊驼刷怪蛋"
   },
   {
-    "ID": "tropical-fish-spawn-egg",
+    "ID": "tropical_fish_spawn_egg",
     "Name": "热带鱼刷怪蛋"
   },
   {
-    "ID": "turtle-spawn-egg",
+    "ID": "turtle_spawn_egg",
     "Name": "海龟刷怪蛋"
   },
   {
-    "ID": "vex-spawn-egg",
+    "ID": "vex_spawn_egg",
     "Name": "恼鬼刷怪蛋"
   },
   {
-    "ID": "villager-spawn-egg",
+    "ID": "villager_spawn_egg",
     "Name": "村民刷怪蛋"
   },
   {
-    "ID": "vindicator-spawn-egg",
+    "ID": "vindicator_spawn_egg",
     "Name": "卫道士刷怪蛋"
   },
   {
-    "ID": "wandering-trader-spawn-egg",
+    "ID": "wandering_trader_spawn_egg",
     "Name": "流浪商人刷怪蛋"
   },
   {
-    "ID": "warden-spawn-egg",
+    "ID": "warden_spawn_egg",
     "Name": "监守者刷怪蛋"
   },
   {
-    "ID": "witch-spawn-egg",
+    "ID": "witch_spawn_egg",
     "Name": "女巫刷怪蛋"
   },
   {
-    "ID": "wither-spawn-egg",
+    "ID": "wither_spawn_egg",
     "Name": "凋灵刷怪蛋"
   },
   {
-    "ID": "wither-skeleton-spawn-egg",
+    "ID": "wither_skeleton_spawn_egg",
     "Name": "凋灵骷髅刷怪蛋"
   },
   {
-    "ID": "wolf-spawn-egg",
+    "ID": "wolf_spawn_egg",
     "Name": "狼刷怪蛋"
   },
   {
-    "ID": "zoglin-spawn-egg",
+    "ID": "zoglin_spawn_egg",
     "Name": "僵尸疣猪兽刷怪蛋"
   },
   {
-    "ID": "zombie-horse-spawn-egg",
+    "ID": "zombie_horse_spawn_egg",
     "Name": "僵尸马刷怪蛋"
   },
   {
-    "ID": "zombie-spawn-egg",
+    "ID": "zombie_spawn_egg",
     "Name": "僵尸刷怪蛋"
   },
   {
-    "ID": "zombie-villager-spawn-egg",
+    "ID": "zombie_villager_spawn_egg",
     "Name": "僵尸村民刷怪蛋"
   },
   {
-    "ID": "zombified-piglin-spawn-egg",
+    "ID": "zombified_piglin_spawn_egg",
     "Name": "僵尸猪灵刷怪蛋"
   },
   {
-    "ID": "agent-spawn-egg",
+    "ID": "agent_spawn_egg",
     "Name": "智能体刷怪蛋"
   },
   {
@@ -1832,7 +1752,7 @@
     "Name": "解毒剂"
   },
   {
-    "ID": "black-balloon",
+    "ID": "black_balloon",
     "Name": "黑色气球"
   },
   {
@@ -1840,15 +1760,15 @@
     "Name": "漂白剂"
   },
   {
-    "ID": "blue-balloon",
+    "ID": "blue_balloon",
     "Name": "蓝色气球"
   },
   {
-    "ID": "blue-glow-stick",
+    "ID": "blue_glow_stick",
     "Name": "蓝色荧光棒"
   },
   {
-    "ID": "blue-sparkler",
+    "ID": "blue_sparkler",
     "Name": "蓝色烟花棒"
   },
   {
@@ -1856,11 +1776,11 @@
     "Name": "大黑板"
   },
   {
-    "ID": "brown-balloon",
+    "ID": "brown_balloon",
     "Name": "棕色气球"
   },
   {
-    "ID": "brown-glow-stick",
+    "ID": "brown_glow_stick",
     "Name": "棕色荧光棒"
   },
   {
@@ -1868,11 +1788,11 @@
     "Name": "化合物"
   },
   {
-    "ID": "cyan-balloon",
+    "ID": "cyan_balloon",
     "Name": "青色气球"
   },
   {
-    "ID": "cyan-glow-stick",
+    "ID": "cyan_glow_stick",
     "Name": "青色荧光棒"
   },
   {
@@ -1880,79 +1800,79 @@
     "Name": "灵药"
   },
   {
-    "ID": "eye-drops",
+    "ID": "eye_drops",
     "Name": "眼药水"
   },
   {
-    "ID": "gray-balloon",
+    "ID": "gray_balloon",
     "Name": "灰色气球"
   },
   {
-    "ID": "gray-glow-stick",
+    "ID": "gray_glow_stick",
     "Name": "灰色荧光棒"
   },
   {
-    "ID": "green-balloon",
+    "ID": "green_balloon",
     "Name": "绿色气球"
   },
   {
-    "ID": "green-glow-stick",
+    "ID": "green_glow_stick",
     "Name": "绿色荧光棒"
   },
   {
-    "ID": "green-sparkler",
+    "ID": "green_sparkler",
     "Name": "绿色烟花棒"
   },
   {
-    "ID": "ice-bomb",
+    "ID": "ice_bomb",
     "Name": "冰弹"
   },
   {
-    "ID": "light-blue-balloon",
+    "ID": "light_blue_balloon",
     "Name": "淡蓝色气球"
   },
   {
-    "ID": "light-blue-glow-stick",
+    "ID": "light_blue_glow_stick",
     "Name": "淡蓝色荧光棒"
   },
   {
-    "ID": "light-gray-balloon",
+    "ID": "light_gray_balloon",
     "Name": "淡灰色气球"
   },
   {
-    "ID": "lime-balloon",
+    "ID": "lime_balloon",
     "Name": "黄绿色气球"
   },
   {
-    "ID": "lime-glow-stick",
+    "ID": "lime_glow_stick",
     "Name": "黄绿色荧光棒"
   },
   {
-    "ID": "magenta-balloon",
+    "ID": "magenta_balloon",
     "Name": "品红色气球"
   },
   {
-    "ID": "magenta-glow-stick",
+    "ID": "magenta_glow_stick",
     "Name": "品红色荧光棒"
   },
   {
-    "ID": "orange-balloon",
+    "ID": "orange_balloon",
     "Name": "橙色气球"
   },
   {
-    "ID": "orange-glow-stick",
+    "ID": "orange_glow_stick",
     "Name": "橙色荧光棒"
   },
   {
-    "ID": "all-sparklers",
+    "ID": "all_sparklers",
     "Name": "橙色烟花棒"
   },
   {
-    "ID": "pink-balloon",
+    "ID": "pink_balloon",
     "Name": "粉红色气球"
   },
   {
-    "ID": "pink-glow-stick",
+    "ID": "pink_glow_stick",
     "Name": "粉红色荧光棒"
   },
   {
@@ -1964,27 +1884,27 @@
     "Name": "告示板"
   },
   {
-    "ID": "purple-balloon",
+    "ID": "purple_balloon",
     "Name": "紫色气球"
   },
   {
-    "ID": "purple-glow-stick",
+    "ID": "purple_glow_stick",
     "Name": "紫色荧光棒"
   },
   {
-    "ID": "purple-sparkler",
+    "ID": "purple_sparkler",
     "Name": "紫色烟花棒"
   },
   {
-    "ID": "red-balloon",
+    "ID": "red_balloon",
     "Name": "红色气球"
   },
   {
-    "ID": "red-glow-stick",
+    "ID": "red_glow_stick",
     "Name": "红色荧光棒"
   },
   {
-    "ID": "red-sparkler",
+    "ID": "red_sparkler",
     "Name": "红色烟花棒"
   },
   {
@@ -1992,7 +1912,7 @@
     "Name": "小黑板"
   },
   {
-    "ID": "super-fertilizer",
+    "ID": "super_fertilizer",
     "Name": "超级肥料"
   },
   {
@@ -2000,19 +1920,19 @@
     "Name": "补药"
   },
   {
-    "ID": "all-balloons",
+    "ID": "all_balloons",
     "Name": "白色气球"
   },
   {
-    "ID": "all-glow-sticks",
+    "ID": "all_glow_sticks",
     "Name": "白色荧光棒"
   },
   {
-    "ID": "yellow-balloon",
+    "ID": "yellow_balloon",
     "Name": "黄色气球"
   },
   {
-    "ID": "yellow-glow-stick",
+    "ID": "yellow_glow_stick",
     "Name": "黄色荧光棒"
   },
   {
@@ -2020,7 +1940,7 @@
     "Name": "照片"
   },
   {
-    "ID": "copper-horn",
+    "ID": "copper_horn",
     "Name": "铜制号角"
   },
   {
@@ -2028,7 +1948,7 @@
     "Name": "鱼"
   },
   {
-    "ID": "horse-saddle",
+    "ID": "horse_saddle",
     "Name": "马鞍"
   },
   {
@@ -2036,83 +1956,75 @@
     "Name": "箭袋"
   },
   {
-    "ID": "studded-helmet",
+    "ID": "studded_helmet",
     "Name": "皮革链头盔"
   },
   {
-    "ID": "studded-chestplate",
+    "ID": "studded_chestplate",
     "Name": "皮革链胸甲"
   },
   {
-    "ID": "studded-leggings",
+    "ID": "studded_leggings",
     "Name": "皮革链护腿"
   },
   {
-    "ID": "studded-boots",
+    "ID": "studded_boots",
     "Name": "皮革链靴子"
   },
   {
-    "ID": "woodland-explorer-map",
+    "ID": "woodland_explorer_map",
     "Name": "探险家地图"
   },
   {
-    "ID": "all-harnesses",
+    "ID": "all_harnesses",
     "Name": "挽具"
-  },
-  {
-    "ID": "all-bundles",
-    "Name": "收纳袋"
   },
   {
     "ID": "cake",
     "Name": "蛋糕"
   },
   {
-    "ID": "bottle-o'-enchanting",
-    "Name": "附魔之瓶"
-  },
-  {
-    "ID": "creeper-charge-banner-pattern",
+    "ID": "creeper_banner_pattern",
     "Name": "苦力怕盾徽旗帜图案"
   },
   {
-    "ID": "skull-charge-banner-pattern",
+    "ID": "skull_banner_pattern",
     "Name": "头颅盾徽旗帜图案"
   },
   {
-    "ID": "flower-charge-banner-pattern",
+    "ID": "flower_banner_pattern",
     "Name": "花朵盾徽旗帜图案"
   },
   {
-    "ID": "thing-banner-pattern",
+    "ID": "mojang_banner_pattern",
     "Name": "Mojang徽标旗帜图案"
   },
   {
-    "ID": "field-masoned-banner-pattern",
+    "ID": "field_masoned_banner_pattern",
     "Name": "砖纹旗帜图案"
   },
   {
-    "ID": "bordure-indented-banner-pattern",
+    "ID": "bordure_indented_banner_pattern",
     "Name": "波纹边旗帜图案"
   },
   {
-    "ID": "snout-banner-pattern",
+    "ID": "piglin_banner_pattern",
     "Name": "猪鼻旗帜图案"
   },
   {
-    "ID": "globe-banner-pattern",
+    "ID": "globe_banner_pattern",
     "Name": "地球旗帜图案"
   },
   {
-    "ID": "flow-banner-pattern",
+    "ID": "flow_banner_pattern",
     "Name": "涡流旗帜图案"
   },
   {
-    "ID": "guster-banner-pattern",
+    "ID": "guster_banner_pattern",
     "Name": "旋风旗帜图案"
   },
   {
-    "ID": "cane",
+    "ID": "sugar_cane",
     "Name": "甘蔗"
   },
   {
